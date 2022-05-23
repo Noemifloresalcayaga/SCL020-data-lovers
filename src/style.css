@@ -170,3 +170,31 @@
   #filterButtons ul li:hover > ul {
     display:block;
   }
+  .champions-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80%;
+    max-width: 800px;
+    margin: 1rem auto;
+  }
+  .card{ 
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+  }
+
+  .card img {
+   
+    width: 150px;
+    margin: auto;
+
+  }
+  .card .name {
+    padding: 1rem 2rem;
+    background: #DC143C;
+    font-weight: bold;
+    color: #fff;
+  }
