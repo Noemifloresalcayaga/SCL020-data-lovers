@@ -1,15 +1,25 @@
-// estas funciones son de ejemplo
+import data from "./lol2.js";
 
-/*CREAR FUNCIONES SEGUN LOS FILTRADOS QUE SE NECESITA EN LA PAGINA PARA IMPORTARLOS EN MAIN.JS, manipular la data de por si */
+const saveData = data;
+const allData = Object.values(saveData.data);
 
-//export const getData = (data) => {};
-
-/*export almacena esta funcion-> const filterByRole = trabaja con los objetos (rolChoice, allData) =>{
-  return allData.filter(campeon => campeon.tags.includes(rolChoice))
-};*/
-
-// ctrl+k y ctrl+c || ctrl+k y ctrl+u
-
-/* Array.isArray(championList) ? championList : Object.values(championList);*/
-
-/*console.log(Object.Values(data));*/
+export function renderChampion(champion) {
+    return `
+      <section class="champions-container">
+      <div class="card">
+      <img  class= "img"src=${champion.splash}>
+            <div class="name">
+            <p>${champion.name}</p>  
+            </div>
+        </div>
+    `;
+  }
+  export function renderAllChampions(champions) {
+    let allChampionsHtml = "";
+    champions.forEach((champion) => {
+      allChampionsHtml += renderChampion(champion);
+    });
+  
+    return allChampionsHtml;
+  }
+  
