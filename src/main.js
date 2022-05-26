@@ -1,12 +1,8 @@
 import data from "./lol2.js";
 import {
-  renderAllChampions,
-  filterAssassins,
-  filterFighters,
-  filterMages,
-  filterMarksmens,
-  filterSupports,
-  filterTanks,
+
+  renderAllChampions, /*infoSort*/
+  /*filterAssassins, filterFighters, filterMarksmans, filterMages, filterSupports,filterTanks*/
 } from "./data.js";
 
 const saveData = data;
@@ -22,6 +18,9 @@ document.getElementById("boton1").addEventListener("click", function () {
 const championsElement = document.getElementById("champions");
 championsElement.innerHTML = renderAllChampions(allData);
 
+
+
 //const filteredData = allData.filter((element) => element.age >= 29);
 
 //championsElement.innerHTML = renderAllChampions(filteredData);
+
