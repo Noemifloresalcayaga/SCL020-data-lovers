@@ -37,33 +37,29 @@
   
 
 <nav id="filterButtons">
-<ul>
-  <li><a href="#">TODOS</a></li>
-  <li><a href="#">ROL</a>
-    <ul>
-      <li><a href="#" >Asesinos</a></li>
-      <li><a href="#" >Luchadores</a></li>
-      <li><a href="#" >Magos</a></li>
-      <li><a href="#" >Tiradores</a></li>
-      <li><a href="#" >Soportes</a></li>
-      <li><a href="#" >Tanques</a></li>
-    </ul>
-  </li>
-  <li><a href="#">POR DIFICULTAD</a>
-    <ul>
-      <li><a href="#">Ascendente</a></li>
-      <li><a href="#">Descendente</a></li>
-    </ul>
+  <ul>
+    <li><a id="all" href="#">TODOS</a></li>
+    <li><a href="#">ROL</a>
+      <ul>
+        <li><a id="assassin" href="#" >Asesinos</a></li>
+        <li><a id="fighter" href="#" >Luchadores</a></li>
+        <li><a id="mage" href="#" >Magos</a></li>
+        <li><a id="marksman" href="#" >Tiradores</a></li>
+        <li><a id="support" href="#" >Soportes</a></li>
+        <li><a id="tank" href="#" >Tanques</a></li>
+      </ul>
     </li>
-  <li><a href="#">FILTRAR</a></li>
-</ul>
+    <li><a href="#">POR DIFICULTAD</a>
+      <ul>
+        <li><a id="ascendente" href="#">Ascendente</a></li>
+        <li><a id="descendente" href="#">Descendente</a></li>
+      </ul>
+      </li>
+  </ul>
 </nav>
-
 </section>
 
-<div>
   <div id = "champions"></div>
-</div>
 
 
 <script src="main.js" type="module"></script>
