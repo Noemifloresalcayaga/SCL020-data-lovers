@@ -177,7 +177,7 @@
 
   .ORDEN{
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     /*grid-gap: 5px;
     grid-auto-rows: minmax(100px, auto);*/
     align-items: center;
@@ -188,7 +188,7 @@
  
   .card{
 
-    
+    display: grid;
     gap: 20px;
     padding: 1rem;
     padding-bottom: 50px;

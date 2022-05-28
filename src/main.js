@@ -79,11 +79,20 @@ btnall.addEventListener("click", function (event) {
 });
 
 //FILTRADO POR ASCENDENTE
-/*const btnasc = document.getElementById("ascendente");
+const btnasc = document.getElementById("ascendente");
 btnasc.addEventListener("click", function (event) {
   event.preventDefault();
-  const filterDone = infoSort();
+  const filterDone = infoSort(allData,"sortA");
   championsElement.innerHTML = renderAllChampions(filterDone);
-});*/
+});
+
+//FILTRADO POR DESCENDENTE
+const btndesc = document.getElementById("descendente");
+btndesc.addEventListener("click", function (event) {
+  event.preventDefault();
+  const filterDone = infoSort(allData,"sortB");
+  championsElement.innerHTML = renderAllChampions(filterDone);
+});
+
 
 //const filteredData = allData.filter((element) => element.age >= 29);
