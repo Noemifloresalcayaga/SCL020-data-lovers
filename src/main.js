@@ -1,4 +1,4 @@
-import data from "./lol2.js";
+import data from "./data/lol/lol.js";
 import {
   renderAllChampions,
   infoSort,
@@ -71,6 +71,7 @@ btntank.addEventListener("click", function (event) {
   championsElement.innerHTML = renderAllChampions(filterDone);
 });
 
+//BOTON PARA QUE SE VEAN TODOS
 const btnall = document.getElementById("all");
 btnall.addEventListener("click", function (event) {
   event.preventDefault();
@@ -79,11 +80,17 @@ btnall.addEventListener("click", function (event) {
 });
 
 //FILTRADO POR ASCENDENTE
-/*const btnasc = document.getElementById("ascendente");
+const btnasc = document.getElementById("ascendente");
 btnasc.addEventListener("click", function (event) {
   event.preventDefault();
-  const filterDone = infoSort();
+  const filterDone = infoSort(allData, "sortA");
   championsElement.innerHTML = renderAllChampions(filterDone);
-});*/
+});
 
-//const filteredData = allData.filter((element) => element.age >= 29);
+//FILTRADO POR DESCENDENTE
+const btndesc = document.getElementById("descendente");
+btndesc.addEventListener("click", function (event) {
+  event.preventDefault();
+  const filterDone = infoSort(allData, "sortB");
+  championsElement.innerHTML = renderAllChampions(filterDone);
+});
