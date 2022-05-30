@@ -1,22 +1,24 @@
-import data from "./lol2.js";
+import data from "./data/lol/lol.js";
 
 const saveData = data;
 const allData = Object.values(saveData.data);
 
+//DEFINICION DEL FILTRADO EN VISTA DE UN HTML
 export function renderChampion(champion) {
   return `
-    <main class="ORDEN">
       <div class="card">
        <img src=${champion.splash}>
-            <div class="name">
-              <p>${champion.name}</p> 
-              <p>${champion.tags}</p> 
+            <div class="decoration">
+              <p class="name">${champion.name}</p> 
+              <p class="title">${champion.title}</p>
+              <p class="tags">${champion.tags}</p>
+              <p class="info">${champion.info}</p> 
             </div>
         </div>
-    <main/>
     `;
 }
 
+//RECORRIDO DE TODA LA DATA
 export function renderAllChampions(champions) {
   let allChampionsHtml = "";
   champions.forEach((champion) => {
@@ -76,7 +78,7 @@ export const filterTanks = () => {
   return filtro;
 };
 
-/*FILTRADO DE ASCENDENTE Y DESCENDENTE*/
+//FILTRADO DE ASCENDENTE Y DESCENDENTE
 
 export const infoSort = (allData, infoSortSelect) => {
   if (infoSortSelect === "sortA") {

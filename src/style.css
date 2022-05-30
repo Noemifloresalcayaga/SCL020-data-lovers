@@ -86,26 +86,46 @@
     display: flex;
     flex-direction: column;
     width: auto;
-    height: 500px;
-    background: #ffffff;
     align-items: center;
     justify-content: center;
-    align-content: center;
     text-align: center;
     /*outline: 2px solid red; /*identifica los div*/
   }
   
-  .secondPage h4{
-    height: 250px;
-    width: 60%;
-    max-width: 500px;
-    font-size: x-large;
+  .texto{
+    position: relative;
+    top: 130px;
+    height: 400px;
+    max-width: 600px;
+    font-family: italic;
+    font-size:x-large;
    /*outline: 2px solid red;/*identifica los div*/
     
   }
+
+  .find{
+  max-width: 200px;
+  height: 30px;
+  font-style: italic;
+  font-size: 25px;
+  /*outline: 2px solid red;/*identifica los div*/
+ }
+
+ .CAMPEONTEXT{
+  height: 75px;
+  font-style: italic;
+  font-size: 300%;
+  font-weight: bold;
+  /*outline: 2px solid red;/*identifica los div*/
+ }
+ 
   #parrafo2{
-    font-size: medium;
+    height: 100px;
+    width: 60%;
+    max-width: 350px;
+    font-size: larger;
     color:#772C43;
+    /*outline: 2px solid red;/*identifica los div*/
   }
   
   #filterButtons{ 
@@ -113,7 +133,8 @@
     align-items: center;
     justify-content: center;
     align-content: center;
-    text-align: center;
+    text-align: center; 
+    /*outline: 2px solid red;*/
   }
   
   #filterButtons ul li {
@@ -171,41 +192,77 @@
     display:block;
   }
 
-/*#champions{
-  width: 100%;
-}*/
+ /*ORDEN DE LAS CARTAS*/
 
-  .ORDEN{
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    /*grid-gap: 5px;
-    grid-auto-rows: minmax(100px, auto);*/
-    align-items: center;
-    height: 100%;
-    outline: 2px solid red; /*identifica los div*/
-  }
+ .section-champions{
+  width:100vw;
+  padding-left: 1.5%;
+ }
 
+  .container-champions{
+  display:flex;
+  flex-direction: row;
+  flex-wrap:wrap ;
+  width:100vw;
+ }
  
-  .card{
-
-    
-    gap: 20px;
+  .card{ 
     padding: 1rem;
     padding-bottom: 50px;
-    /*transition: 0.4s ease-in-out;*/
-    outline: 2px solid red; /*identifica los div*/
+    /*outline: 2px solid red; /*identifica los div*/
   }
 
+  /*DECORACION DE LAS CARTAS*/
   .card img {
-    width: 400px;
+    width: 30vw;
     margin: auto;
   }
 
   .card .name {
-    padding: 1rem;
+    padding: 0.5rem;
     text-align: left;
-    font-family: 'Inter';
-    background: #0C1F50;
+    font-size:xx-large;
+    background:  rgb(6, 28, 37);
     font-weight: bold;
     color: #fff;
   }
+
+  .card .title {
+    padding: 0.5rem;
+    text-align: left;
+    font-size: medium;
+    background:  rgb(4, 21, 27);
+    font-weight: 400;
+    color: #fff;
+  }
+
+  .card .tags {
+    padding: 0.5rem;
+    text-align: left;
+    font-size: medium;
+    background: rgb(4, 19, 24);
+    font-weight: 400;
+    color: #fff;
+  }
+
+  .card .info {
+    padding: 0.5rem;
+    text-align: left;
+    font-size: medium;
+    background:rgb(3, 15, 18);
+    font-weight: 400;
+    color: #fff;
+  }
+
+  /*RESPONSIVE*/
+
+  /*@media (min-width: 768px){
+    .card .info {
+      padding: 0.5rem;
+      text-align: left;
+      font-size: medium;
+      background: #000000;
+      font-weight: 400;
+      color: rgb(0, 0, 0);
+    }
+  }*/
