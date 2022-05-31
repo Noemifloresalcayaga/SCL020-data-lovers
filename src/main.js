@@ -15,6 +15,8 @@ import {
 const saveData = data;
 const allData = Object.values(saveData.data);
 
+
+
 //SCROLL DE EMPEZAR
 document.getElementById("boton1").addEventListener("click", function () {
   window.scrollTo({
@@ -32,42 +34,42 @@ championsElement.innerHTML = renderAllChampions(allData);
 const btnassassin = document.getElementById("assassin");
 btnassassin.addEventListener("click", function (event) {
   event.preventDefault();
-  const filterDone = filterAssassins();
+  const filterDone = filterAssassins(allData);
   championsElement.innerHTML = renderAllChampions(filterDone);
 });
 
 const btnfighter = document.getElementById("fighter");
 btnfighter.addEventListener("click", function (event) {
   event.preventDefault();
-  const filterDone = filterFighters();
+  const filterDone = filterFighters(allData);
   championsElement.innerHTML = renderAllChampions(filterDone);
 });
 
 const btnmage = document.getElementById("mage");
 btnmage.addEventListener("click", function (event) {
   event.preventDefault();
-  const filterDone = filterMages();
+  const filterDone = filterMages(allData);
   championsElement.innerHTML = renderAllChampions(filterDone);
 });
 
 const btnmarksman = document.getElementById("marksman");
 btnmarksman.addEventListener("click", function (event) {
   event.preventDefault();
-  const filterDone = filterMarksmans();
+  const filterDone = filterMarksmans(allData);
   championsElement.innerHTML = renderAllChampions(filterDone);
 });
 
 const btnsupport = document.getElementById("support");
 btnsupport.addEventListener("click", function (event) {
   event.preventDefault();
-  const filterDone = filterSupports();
+  const filterDone = filterSupports(allData);
   championsElement.innerHTML = renderAllChampions(filterDone);
 });
 
 const btntank = document.getElementById("tank");
 btntank.addEventListener("click", function (event) {
   event.preventDefault();
-  const filterDone = filterTanks();
+  const filterDone = filterTanks(allData);
   championsElement.innerHTML = renderAllChampions(filterDone);
 });
 
