@@ -1,4 +1,4 @@
-import data from "./data/lol/lol.js";
+
 
 
 
@@ -28,8 +28,7 @@ export function renderAllChampions(champions) {
 }
 
 
-const saveData = data;
-const allData = Object.values(saveData.data);
+
 //FILTRADO DE ROLES POR CAMPEON//
 
 export const filterAssassins = (allData) => {
@@ -66,7 +65,7 @@ export const filterMarksmans = (allData) => {
   return filtro;
 };
 
-export const filterSupports = () => {
+export const filterSupports = (allData) => {
   let filtro = allData.filter((rol5) => {
     return rol5.tags.includes("Support");
   });
