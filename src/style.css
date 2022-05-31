@@ -2,8 +2,9 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    cursor: url('./fotos/lolcursor.cur'), auto;
   }
-  
+
   header{
     display: flex;
     width: auto;
@@ -57,8 +58,11 @@
    /*outline: 2px solid red; identifica los div*/
   }
   
-  h2{
-    color:  #ebe9eb;
+  .foundChampText{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 3vh;
   }
   
   .botones{
@@ -68,6 +72,7 @@
     font-size: large;
     padding: 5px 10px;
     border-radius: 30px;
+    text-shadow: 1px 1px 10px rgb(2 2 2);
     border-color: #C89B3C;
   }
   
@@ -93,48 +98,41 @@
   }
   
   .texto{
-    position: relative;
-    top: 130px;
-    height: 400px;
-    max-width: 600px;
-    font-family: italic;
-    font-size:x-large;
-   /*outline: 2px solid red;/*identifica los div*/
+  position: relative;
+  top: 120px;
+  min-height: 6vh;
+  max-width: 50%;
+  font-family: italic;
+  font-size:4vh;
+  /*outline: 2px solid red;/*identifica los div*/
     
   }
 
   .find{
-  max-width: 200px;
-  height: 30px;
+  position: relative;
+  margin-top: 10%;
+  max-width: 50vw;
+  min-height: 30px;
   font-style: italic;
-  font-size: 25px;
+  font-size: 45px;
   /*outline: 2px solid red;/*identifica los div*/
  }
 
  .CAMPEONTEXT{
-  height: 75px;
-  font-style: italic;
-  font-size: 300%;
-  font-weight: bold;
-  /*outline: 2px solid red;/*identifica los div*/
- }
+   height: 15vh;
+   font-style: italic;
+   font-size: 90px;
+   font-weight: bold;
+   /*outline: 2px solid red;/*identifica los div*/
+  }
  
   #parrafo2{
-    height: 100px;
+    height: 10vh;
     width: 60%;
     max-width: 350px;
-    font-size: larger;
+    font-size: 20px;
     color:#772C43;
     /*outline: 2px solid red;/*identifica los div*/
-  }
-  
-  #filterButtons{ 
-    display: flex;  
-    align-items: center;
-    justify-content: center;
-    align-content: center;
-    text-align: center; 
-    /*outline: 2px solid red;*/
   }
   
   #filterButtons ul li {
@@ -167,7 +165,7 @@
   }
   
   #filterButtons ul li:hover {
-    background:#C8AA6E
+    background:#C8AA6E;
   }
   
   #filterButtons ul ul {
@@ -194,22 +192,17 @@
 
  /*ORDEN DE LAS CARTAS*/
 
- .section-champions{
-  width:100vw;
-  padding-left: 1.5%;
- }
-
   .container-champions{
-  display:flex;
-  flex-direction: row;
-  flex-wrap:wrap ;
-  width:100vw;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
  }
  
-  .card{ 
+  .card { 
     padding: 1rem;
     padding-bottom: 50px;
-    /*outline: 2px solid red; /*identifica los div*/
+   /*outline: 2px solid red; /*identifica los div*/
   }
 
   /*DECORACION DE LAS CARTAS*/
@@ -220,15 +213,18 @@
 
   .card .name {
     padding: 0.5rem;
-    text-align: left;
-    font-size:xx-large;
+    text-transform: uppercase;
+    font-style: italic;
+    font-size:6vh;
     background:  rgb(6, 28, 37);
-    font-weight: bold;
+    font-weight: bolder;
     color: #fff;
+    text-align: left;
   }
 
   .card .title {
     padding: 0.5rem;
+    text-transform: uppercase;
     text-align: left;
     font-size: medium;
     background:  rgb(4, 21, 27);
@@ -256,13 +252,74 @@
 
   /*RESPONSIVE*/
 
-  /*@media (min-width: 768px){
-    .card .info {
-      padding: 0.5rem;
-      text-align: left;
-      font-size: medium;
-      background: #000000;
-      font-weight: 400;
-      color: rgb(0, 0, 0);
+  @media (max-width: 1000px){
+    .pag1{
+      background-image: url(fotos/lolresponsive.jpg);
+      background-size: cover;
+      background-repeat: no-repeat; 
+      min-height: 100vh;
     }
-  }*/
+
+    #boton1 {
+      padding: 20px 2px;
+      width: 25vh;
+      margin-top: 50%;
+      text-align: center;
+  }
+
+  .botones {
+    background-color: #1b283a;
+    font-style: italic;
+    color: white;
+    font-size: 3vh;
+    padding: 5px 10px;
+    border-radius: 30px;
+  }
+
+  .foundChampText{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    color: #1b283a;
+    font-size: 3vh;
+  }
+
+  #logo {
+    width: 35vh;
+    margin-top: 10%;
+  }
+
+  .texto {
+    position: relative;
+    top: 160px;
+    min-height: 6vh;
+    max-width: 90%;
+    font-family: italic;
+    font-size: 4vh;
+  }
+
+  .find {
+    position: relative;
+    margin-top: 33%;
+    max-width: 50vw;
+    min-height: 30px;
+    font-style: italic;
+    font-size: 55px;
+  }
+
+  .CAMPEONTEXT {
+    height: 13vh;
+    font-style: italic;
+    font-size: 95px;
+    font-weight: bold;
+  }
+
+  #parrafo2 {
+    height: 15vh;
+    font-size: 33px;
+  }
+  
+  .card .name {
+    font-size: 2.5vh;
+  }
+
+}
