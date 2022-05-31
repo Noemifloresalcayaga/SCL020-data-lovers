@@ -1,22 +1,21 @@
 import data from "./data/lol/lol.js";
 
-const saveData = data;
-const allData = Object.values(saveData.data);
+
 
 //DEFINICION DEL FILTRADO EN VISTA DE UN HTML
 export function renderChampion(champion) {
-  return `
-      <div class="card">
-       <img src=${champion.splash}>
+  return`<div class="card">
+            <img src=${champion.splash}>
             <div class="decoration">
               <p class="name">${champion.name}</p> 
               <p class="title">${champion.title}</p>
               <p class="tags">${champion.tags}</p>
-              <p class="info">${champion.info}</p> 
+              <p class="info">DIFICULTAD: ${champion.info.difficulty}</p>
             </div>
-        </div>
-    `;
+        </div>`;
 }
+ 
+
 
 //RECORRIDO DE TODA LA DATA
 export function renderAllChampions(champions) {
@@ -24,21 +23,26 @@ export function renderAllChampions(champions) {
   champions.forEach((champion) => {
     allChampionsHtml += renderChampion(champion);
   });
-
+  
   return allChampionsHtml;
 }
 
+
+const saveData = data;
+const allData = Object.values(saveData.data);
 //FILTRADO DE ROLES POR CAMPEON//
 
-export const filterAssassins = () => {
+export const filterAssassins = (allData) => {
   let filtro = allData.filter((rol1) => {
-    return rol1.tags.includes("Assassin");
+   return rol1.tags.includes("Assassin");
   });
 
-  return filtro;
+ return filtro;
+
+  
 };
 
-export const filterFighters = () => {
+export const filterFighters = (allData) => {
   let filtro = allData.filter((rol2) => {
     return rol2.tags.includes("Fighter");
   });
@@ -46,7 +50,7 @@ export const filterFighters = () => {
   return filtro;
 };
 
-export const filterMages = () => {
+export const filterMages = (allData) => {
   let filtro = allData.filter((rol3) => {
     return rol3.tags.includes("Mage");
   });
@@ -54,7 +58,7 @@ export const filterMages = () => {
   return filtro;
 };
 
-export const filterMarksmans = () => {
+export const filterMarksmans = (allData) => {
   let filtro = allData.filter((rol4) => {
     return rol4.tags.includes("Marksman");
   });
@@ -70,7 +74,7 @@ export const filterSupports = () => {
   return filtro;
 };
 
-export const filterTanks = () => {
+export const filterTanks = (allData) => {
   let filtro = allData.filter((rol6) => {
     return rol6.tags.includes("Tank");
   });
