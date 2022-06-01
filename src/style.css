@@ -308,7 +308,7 @@
     #boton1 {
       padding: 20px 2px;
       width: 25vh;
-      margin-top: 50%;
+      margin-top: 80%;
       text-align: center;
   }
 
@@ -329,8 +329,8 @@
   }
 
   #logo {
-    width: 35vh;
-    margin-top: 10%;
+    width: 25vh;
+    margin-top: 7%;
   }
 
   .texto {
