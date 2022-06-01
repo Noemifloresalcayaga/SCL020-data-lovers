@@ -142,6 +142,7 @@
   #filterButtons ul {
     list-style: none;
     margin: 0;
+    height: 15vh;
   }
   
   #filterButtons ul a {
@@ -194,14 +195,27 @@
  
   .card { 
     padding: 1rem;
-    padding-bottom: 50px;
+    border-radius: 45px; 
+    font-weight: bold; 
+    box-shadow : 0px 8px 15px rgba ( 0 , 0 , 0 , 0.1 ) ;
+    transition : all 0.3s ease ;
    /*outline: 2px solid red; /*identifica los div*/
   }
 
   /*DECORACION DE LAS CARTAS*/
+  .card:hover{
+    background: #c89e3cac;
+    border-radius: 15px;
+    transform: translateY(-8px); 
+    box-shadow: 0px 10px 25px 
+    rgba (46, 223, 229, 0.445);
+  }
+
   .card img {
-    width: 30vw;
+    width: 22vw;
     margin: auto;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
   }
 
   .card .name {
@@ -241,6 +255,8 @@
     background:rgb(3, 15, 18);
     font-weight: 400;
     color: #fff;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
   }
 
    footer{
@@ -347,12 +363,25 @@
     font-size: 33px;
   }
   
+  .card{
+  padding: 2rem;
+  }
+
   .card .name {
     font-size: 2.5vh;
   }
 
   .card img {
     width: 31vw;
+}
+
+.container-champions{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(11, 69, 88);
+  width: 90vw;
+  height: 50vh;
+  overflow: auto;
 }
 
 }

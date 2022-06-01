@@ -14,8 +14,7 @@ import {
 
 const saveData = data;
 const allData = Object.values(saveData.data);
-
-
+const allDataToSort = [...allData]; //copia del array original hacia un array vacio.
 
 //SCROLL DE EMPEZAR
 document.getElementById("boton1").addEventListener("click", function () {
@@ -85,7 +84,7 @@ btnall.addEventListener("click", function (event) {
 const btnasc = document.getElementById("ascendente");
 btnasc.addEventListener("click", function (event) {
   event.preventDefault();
-  const filterDone = infoSort(allData, "sortA");
+  const filterDone = infoSort(allDataToSort, "sortA");
   championsElement.innerHTML = renderAllChampions(filterDone);
 });
 
@@ -93,6 +92,6 @@ btnasc.addEventListener("click", function (event) {
 const btndesc = document.getElementById("descendente");
 btndesc.addEventListener("click", function (event) {
   event.preventDefault();
-  const filterDone = infoSort(allData, "sortB");
+  const filterDone = infoSort(allDataToSort, "sortB");
   championsElement.innerHTML = renderAllChampions(filterDone);
 });
