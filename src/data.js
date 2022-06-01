@@ -1,12 +1,13 @@
 //DEFINICION DEL FILTRADO EN VISTA DE UN HTML
 export function renderChampion(champion) {
+  //html
   return `<div class="card">
             <img src=${champion.splash}>
             <div class="decoration">
               <p class="name">${champion.name}</p> 
               <p class="title">${champion.title}</p>
               <p class="tags">${champion.tags}</p>
-              <p class="info">DIFICULTAD: ${champion.info.difficulty}</p>
+              <p class="info">DIFFICULTY: ${champion.info.difficulty}</p>
             </div>
         </div>`;
 }

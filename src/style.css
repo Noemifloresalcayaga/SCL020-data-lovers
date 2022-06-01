@@ -155,12 +155,13 @@
     width: 210px;
     font-family: 'italic';
     text-transform: uppercase;
+    
   }
   
   #filterButtons ul li {
     position:relative;
     float: left;
-    padding: 0px;
+   /* outline: 2px solid red; /*identifica los div*/
   }
   
   #filterButtons ul li:hover {
@@ -171,7 +172,6 @@
     display: none;
     position: absolute;
     top:100%;
-    padding: 0px 0px;
   }
   
   #filterButtons ul ul a {
@@ -334,33 +334,41 @@
   }
 
   .texto {
-    position: relative;
-    top: 160px;
-    min-height: 6vh;
+    min-height: 15vh;
     max-width: 90%;
-    font-family: italic;
-    font-size: 4vh;
+    font-size: 2vh;
   }
 
   .find {
-    position: relative;
     margin-top: 33%;
-    max-width: 50vw;
-    min-height: 30px;
-    font-style: italic;
-    font-size: 55px;
+    font-size: 2vh;
   }
 
   .CAMPEONTEXT {
-    height: 13vh;
-    font-style: italic;
-    font-size: 95px;
-    font-weight: bold;
+    font-size: 5vh;
   }
 
   #parrafo2 {
     height: 15vh;
-    font-size: 33px;
+    font-size: 2vh;
+  }
+
+  #filterButtons ul {
+    display: flex;
+    height: 10vh;
+  }
+  
+  #filterButtons ul li {
+    float: left;
+    width: 30vw;
+    height: 7vh;
+    /*outline: 2px solid red; /*identifica los div*/
+  }
+  
+  #filterButtons ul a {
+    font-size: 12px;
+    padding: 20px 50px;
+    width: 21px;
   }
   
   .card{
@@ -368,20 +376,51 @@
   }
 
   .card .name {
-    font-size: 2.5vh;
+    font-size: 2vh;
   }
 
   .card img {
-    width: 31vw;
-}
+    width: 50vw;
+  }
+
+  .card .title{
+  font-size: 1vh;
+  }
 
 .container-champions{
   display: flex;
-  justify-content: center;
   background-color: rgb(11, 69, 88);
   width: 90vw;
   height: 50vh;
   overflow: auto;
+}
+
+.centerChamp{
+  display: flex;
+  justify-content: center;
+}
+
+
+
+.finalText{
+  display: flex;
+  flex-direction: column;
+  font-size: 50%;
+}
+
+.logoPoro{
+  display: flex;
+  width: auto;
+  height: 45px;
+  justify-content: left;
+  margin: 5px;
+  /*outline: 2px solid red; identifica los div*/
+}
+
+.logoREDES{
+  height: 30px;
+  margin: 5px;
+  /*outline: 2px solid red;*/
 }
 
 }
