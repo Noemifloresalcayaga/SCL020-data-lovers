@@ -12,7 +12,7 @@
 
 En el año 2021, la compañía desarrolladora y editora de videojuegos Riot Games publicó un anuncio que destacaba que juntando las cifras de jugadores activos durante el mes de Octubre se logró contemplar un total de 180 millones de jugadores, quienes dedicaban sus días a League of Legends. Esto genera una enorme demanda por saber más sobre qué es League of Legends, sus campeones, builds, composiciones, y todo lo que corresponda a su jugabilidad.
 
-Hoy en día, League of Legends tiene muchos años de actividad a sus espaldas y ya es normal que los jugadores acudan a diversas páginas para obtener más información del juego, siendo este la mayoría nuevos usuarios. Dicho lo anterior, desarrollamos una página llamada Runeterra Side con el objetivo de visualizar a todos los campeones del juego con su información y buscarlos según sus roles y niveles de dificultad, además que está enfocado en satisfacer a los usuarios al elegir un campeón según sus preferencias.
+Hoy en día, League of Legends tiene muchos años de actividad a sus espaldas y ya es normal que los jugadores acudan a diversas páginas para obtener más información del juego, siendo este la mayoría nuevos usuarios. Dicho lo anterior, desarrollamos una página llamada Runeterra Side con el objetivo de mostrar a los campeones del juego según sus roles y niveles de dificultad, además que está enfocado en satisfacer a los usuarios al elegir un campeón según sus preferencias.
 
 ## 2. Investigación UX
 
@@ -57,8 +57,9 @@ Tomamos en cuenta que nuestra pagina debia de tener diferentes versiones para cu
 
 ### RESULTADOS
 
-![finalresponsive]()
-![finalresponsive2]()
-![finalresponsive3]()
+![finalresponsive](https://raw.githubusercontent.com/MariannyBatista/SCL020-data-lovers/main/src/readme/finalresponsive.png)
+![finalresponsive2](https://raw.githubusercontent.com/MariannyBatista/SCL020-data-lovers/main/src/readme/finalresponsive2.png)
 
 ## 3. Objetivos de aprendizaje
+
+Runeterra Side fue creada con el uso de HTML (semántico), CSS (selectores, modelo de caja, Flexbox), Web APls (el uso de selectores, eventos y Manipulación dinámica de DOM), JavaScript (datos primitivos y no primitivos, Arrays y Objetos, Variables, Condicionales, Funciones, Bucles, ECMAScript(import y export), Unit tests y el uso de identificadores descriptivos) y GitHub (instalación, control de versiones, creación de cuentas y repositorios).
