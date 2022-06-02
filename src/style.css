@@ -306,7 +306,7 @@
     }
 
     #boton1 {
-      padding: 20px 2px;
+      padding: 13px 2px;
       width: 25vh;
       margin-top: 80%;
       text-align: center;
@@ -325,12 +325,12 @@
     font-family: 'Josefin Sans', sans-serif;
     font-weight: bold;
     color: #1b283a;
-    font-size: 3vh;
+    font-size: 2vh;
   }
 
   #logo {
-    width: 25vh;
-    margin-top: 7%;
+    width: 23vh;
+    margin-top: 6%;
   }
 
   .texto {
@@ -359,7 +359,6 @@
   }
   
   #filterButtons ul li {
-    float: left;
     width: 30vw;
     height: 7vh;
     /*outline: 2px solid red; /*identifica los div*/
@@ -368,7 +367,8 @@
   #filterButtons ul a {
     font-size: 12px;
     padding: 20px 50px;
-    width: 21px;
+    width: 30px;
+    text-align: center;
   }
   
   .card{
@@ -380,7 +380,7 @@
   }
 
   .card img {
-    width: 50vw;
+    width: 65vw;
   }
 
   .card .title{
