@@ -57,8 +57,8 @@ Tomamos en cuenta que nuestra pagina debia de tener diferentes versiones para cu
 
 ### RESULTADOS
 
-![]()
-![]()
-![]()
+![finalresponsive]()
+![finalresponsive2]()
+![finalresponsive3]()
 
 ## 3. Objetivos de aprendizaje

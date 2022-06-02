@@ -9,8 +9,7 @@ export default {
       key: "266",
       name: "Aatrox",
       title: "the Darkin Blade",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Aatrox.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Aatrox.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg",
       blurb:
@@ -19,7 +18,7 @@ export default {
         attack: 8,
         defense: 4,
         magic: 3,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Aatrox.png",
@@ -28,7 +27,7 @@ export default {
         x: 0,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "BloodWell",
@@ -52,8 +51,8 @@ export default {
         attackdamage: 60.376,
         attackdamageperlevel: 3.2,
         attackspeedoffset: -0.04,
-        attackspeedperlevel: 3
-      }
+        attackspeedperlevel: 3,
+      },
     },
     Ahri: {
       version: "6.24.1",
@@ -61,8 +60,7 @@ export default {
       key: "103",
       name: "Ahri",
       title: "the Nine-Tailed Fox",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Ahri.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Ahri.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg",
       blurb:
@@ -71,7 +69,7 @@ export default {
         attack: 3,
         defense: 4,
         magic: 8,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Ahri.png",
@@ -80,7 +78,7 @@ export default {
         x: 48,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Assassin"],
       partype: "MP",
@@ -104,8 +102,8 @@ export default {
         attackdamage: 53.04,
         attackdamageperlevel: 3,
         attackspeedoffset: -0.065,
-        attackspeedperlevel: 2
-      }
+        attackspeedperlevel: 2,
+      },
     },
     Akali: {
       version: "6.24.1",
@@ -113,8 +111,7 @@ export default {
       key: "84",
       name: "Akali",
       title: "the Fist of Shadow",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Akali.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Akali.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg",
       blurb:
@@ -123,7 +120,7 @@ export default {
         attack: 5,
         defense: 3,
         magic: 8,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Akali.png",
@@ -132,7 +129,7 @@ export default {
         x: 96,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Assassin"],
       partype: "Energy",
@@ -156,8 +153,8 @@ export default {
         attackdamage: 58.376,
         attackdamageperlevel: 3.2,
         attackspeedoffset: -0.1,
-        attackspeedperlevel: 3.1
-      }
+        attackspeedperlevel: 3.1,
+      },
     },
     Alistar: {
       version: "6.24.1",
@@ -165,8 +162,7 @@ export default {
       key: "12",
       name: "Alistar",
       title: "the Minotaur",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Alistar.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Alistar.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_0.jpg",
       blurb:
@@ -175,7 +171,7 @@ export default {
         attack: 6,
         defense: 9,
         magic: 5,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Alistar.png",
@@ -184,7 +180,7 @@ export default {
         x: 144,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Support"],
       partype: "MP",
@@ -208,8 +204,8 @@ export default {
         attackdamage: 61.1116,
         attackdamageperlevel: 3.62,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.125
-      }
+        attackspeedperlevel: 2.125,
+      },
     },
     Amumu: {
       version: "6.24.1",
@@ -217,8 +213,7 @@ export default {
       key: "32",
       name: "Amumu",
       title: "the Sad Mummy",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Amumu.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Amumu.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_0.jpg",
       blurb:
@@ -227,7 +222,7 @@ export default {
         attack: 2,
         defense: 6,
         magic: 8,
-        difficulty: 3
+        difficulty: 3,
       },
       image: {
         full: "Amumu.png",
@@ -236,7 +231,7 @@ export default {
         x: 192,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Mage"],
       partype: "MP",
@@ -260,8 +255,8 @@ export default {
         attackdamage: 53.384,
         attackdamageperlevel: 3.8,
         attackspeedoffset: -0.02,
-        attackspeedperlevel: 2.18
-      }
+        attackspeedperlevel: 2.18,
+      },
     },
     Anivia: {
       version: "6.24.1",
@@ -269,8 +264,7 @@ export default {
       key: "34",
       name: "Anivia",
       title: "the Cryophoenix",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Anivia.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Anivia.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_0.jpg",
       blurb:
@@ -279,7 +273,7 @@ export default {
         attack: 1,
         defense: 4,
         magic: 10,
-        difficulty: 10
+        difficulty: 10,
       },
       image: {
         full: "Anivia.png",
@@ -288,7 +282,7 @@ export default {
         x: 240,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Support"],
       partype: "MP",
@@ -312,8 +306,8 @@ export default {
         attackdamage: 51.376,
         attackdamageperlevel: 3.2,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1.68
-      }
+        attackspeedperlevel: 1.68,
+      },
     },
     Annie: {
       version: "6.24.1",
@@ -321,8 +315,7 @@ export default {
       key: "1",
       name: "Annie",
       title: "the Dark Child",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Annie.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Annie.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_0.jpg",
       blurb:
@@ -331,7 +324,7 @@ export default {
         attack: 2,
         defense: 3,
         magic: 10,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Annie.png",
@@ -340,7 +333,7 @@ export default {
         x: 288,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage"],
       partype: "MP",
@@ -364,8 +357,8 @@ export default {
         attackdamage: 50.41,
         attackdamageperlevel: 2.625,
         attackspeedoffset: 0.08,
-        attackspeedperlevel: 1.36
-      }
+        attackspeedperlevel: 1.36,
+      },
     },
     Ashe: {
       version: "6.24.1",
@@ -373,8 +366,7 @@ export default {
       key: "22",
       name: "Ashe",
       title: "the Frost Archer",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Ashe.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Ashe.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg",
       blurb:
@@ -383,7 +375,7 @@ export default {
         attack: 7,
         defense: 3,
         magic: 2,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Ashe.png",
@@ -392,7 +384,7 @@ export default {
         x: 336,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman", "Support"],
       partype: "MP",
@@ -416,8 +408,8 @@ export default {
         attackdamage: 56.508,
         attackdamageperlevel: 2.26,
         attackspeedoffset: -0.05,
-        attackspeedperlevel: 3.33
-      }
+        attackspeedperlevel: 3.33,
+      },
     },
     AurelionSol: {
       version: "6.24.1",
@@ -425,8 +417,7 @@ export default {
       key: "136",
       name: "Aurelion Sol",
       title: "The Star Forger",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/AurelionSol.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/AurelionSol.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg",
       blurb:
@@ -435,7 +426,7 @@ export default {
         attack: 2,
         defense: 3,
         magic: 8,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "AurelionSol.png",
@@ -444,7 +435,7 @@ export default {
         x: 384,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Fighter"],
       partype: "MP",
@@ -468,8 +459,8 @@ export default {
         attackdamage: 57,
         attackdamageperlevel: 3.2,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1.36
-      }
+        attackspeedperlevel: 1.36,
+      },
     },
     Azir: {
       version: "6.24.1",
@@ -477,8 +468,7 @@ export default {
       key: "268",
       name: "Azir",
       title: "the Emperor of the Sands",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Azir.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Azir.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg",
       blurb:
@@ -487,7 +477,7 @@ export default {
         attack: 6,
         defense: 3,
         magic: 8,
-        difficulty: 9
+        difficulty: 9,
       },
       image: {
         full: "Azir.png",
@@ -496,7 +486,7 @@ export default {
         x: 432,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Marksman"],
       partype: "MP",
@@ -520,8 +510,8 @@ export default {
         attackdamage: 52,
         attackdamageperlevel: 2.8,
         attackspeedoffset: -0.02,
-        attackspeedperlevel: 1.5
-      }
+        attackspeedperlevel: 1.5,
+      },
     },
     Bard: {
       version: "6.24.1",
@@ -529,8 +519,7 @@ export default {
       key: "432",
       name: "Bard",
       title: "the Wandering Caretaker",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Bard.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Bard.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg",
       blurb:
@@ -539,7 +528,7 @@ export default {
         attack: 4,
         defense: 4,
         magic: 5,
-        difficulty: 9
+        difficulty: 9,
       },
       image: {
         full: "Bard.png",
@@ -548,7 +537,7 @@ export default {
         x: 0,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Support", "Mage"],
       partype: "MP",
@@ -572,8 +561,8 @@ export default {
         attackdamage: 52,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2
-      }
+        attackspeedperlevel: 2,
+      },
     },
     Blitzcrank: {
       version: "6.24.1",
@@ -581,8 +570,7 @@ export default {
       key: "53",
       name: "Blitzcrank",
       title: "the Great Steam Golem",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Blitzcrank.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Blitzcrank.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg",
       blurb:
@@ -591,7 +579,7 @@ export default {
         attack: 4,
         defense: 8,
         magic: 5,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Blitzcrank.png",
@@ -600,7 +588,7 @@ export default {
         x: 48,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Fighter"],
       partype: "MP",
@@ -624,8 +612,8 @@ export default {
         attackdamage: 61.54,
         attackdamageperlevel: 3.5,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1.13
-      }
+        attackspeedperlevel: 1.13,
+      },
     },
     Brand: {
       version: "6.24.1",
@@ -633,8 +621,7 @@ export default {
       key: "63",
       name: "Brand",
       title: "the Burning Vengeance",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Brand.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Brand.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg",
       blurb:
@@ -643,7 +630,7 @@ export default {
         attack: 2,
         defense: 2,
         magic: 9,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Brand.png",
@@ -652,7 +639,7 @@ export default {
         x: 96,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage"],
       partype: "MP",
@@ -676,8 +663,8 @@ export default {
         attackdamage: 57.04,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1.36
-      }
+        attackspeedperlevel: 1.36,
+      },
     },
     Braum: {
       version: "6.24.1",
@@ -685,8 +672,7 @@ export default {
       key: "201",
       name: "Braum",
       title: "the Heart of the Freljord",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Braum.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Braum.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg",
       blurb:
@@ -695,7 +681,7 @@ export default {
         attack: 3,
         defense: 9,
         magic: 4,
-        difficulty: 3
+        difficulty: 3,
       },
       image: {
         full: "Braum.png",
@@ -704,7 +690,7 @@ export default {
         x: 144,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Support", "Tank"],
       partype: "MP",
@@ -728,8 +714,8 @@ export default {
         attackdamage: 55.376,
         attackdamageperlevel: 3.2,
         attackspeedoffset: -0.03,
-        attackspeedperlevel: 3.5
-      }
+        attackspeedperlevel: 3.5,
+      },
     },
     Caitlyn: {
       version: "6.24.1",
@@ -737,8 +723,7 @@ export default {
       key: "51",
       name: "Caitlyn",
       title: "the Sheriff of Piltover",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Caitlyn.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Caitlyn.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg",
       blurb:
@@ -747,7 +732,7 @@ export default {
         attack: 8,
         defense: 2,
         magic: 2,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Caitlyn.png",
@@ -756,7 +741,7 @@ export default {
         x: 192,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman"],
       partype: "MP",
@@ -780,8 +765,8 @@ export default {
         attackdamage: 53.66,
         attackdamageperlevel: 2.18,
         attackspeedoffset: 0.1,
-        attackspeedperlevel: 4
-      }
+        attackspeedperlevel: 4,
+      },
     },
     Camille: {
       version: "6.24.1",
@@ -789,8 +774,7 @@ export default {
       key: "164",
       name: "Camille",
       title: "the Steel Shadow",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Camille.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Camille.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_0.jpg",
       blurb:
@@ -799,7 +783,7 @@ export default {
         attack: 8,
         defense: 6,
         magic: 3,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Camille.png",
@@ -808,7 +792,7 @@ export default {
         x: 144,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "MP",
@@ -832,8 +816,8 @@ export default {
         attackdamage: 62,
         attackdamageperlevel: 3.5,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.5
-      }
+        attackspeedperlevel: 2.5,
+      },
     },
     Cassiopeia: {
       version: "6.24.1",
@@ -841,8 +825,7 @@ export default {
       key: "69",
       name: "Cassiopeia",
       title: "the Serpent's Embrace",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Cassiopeia.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Cassiopeia.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_0.jpg",
       blurb:
@@ -851,7 +834,7 @@ export default {
         attack: 2,
         defense: 3,
         magic: 9,
-        difficulty: 10
+        difficulty: 10,
       },
       image: {
         full: "Cassiopeia.png",
@@ -860,7 +843,7 @@ export default {
         x: 240,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage"],
       partype: "MP",
@@ -884,8 +867,8 @@ export default {
         attackdamage: 53,
         attackdamageperlevel: 3,
         attackspeedoffset: -0.034,
-        attackspeedperlevel: 1.5
-      }
+        attackspeedperlevel: 1.5,
+      },
     },
     Chogath: {
       version: "6.24.1",
@@ -893,8 +876,7 @@ export default {
       key: "31",
       name: "Cho'Gath",
       title: "the Terror of the Void",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Chogath.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Chogath.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg",
       blurb:
@@ -903,7 +885,7 @@ export default {
         attack: 3,
         defense: 7,
         magic: 7,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Chogath.png",
@@ -912,7 +894,7 @@ export default {
         x: 288,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Mage"],
       partype: "MP",
@@ -936,8 +918,8 @@ export default {
         attackdamage: 61.156,
         attackdamageperlevel: 4.2,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1.44
-      }
+        attackspeedperlevel: 1.44,
+      },
     },
     Corki: {
       version: "6.24.1",
@@ -945,8 +927,7 @@ export default {
       key: "42",
       name: "Corki",
       title: "the Daring Bombardier",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Corki.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Corki.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_0.jpg",
       blurb:
@@ -955,7 +936,7 @@ export default {
         attack: 8,
         defense: 3,
         magic: 6,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Corki.png",
@@ -964,7 +945,7 @@ export default {
         x: 336,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman"],
       partype: "MP",
@@ -988,8 +969,8 @@ export default {
         attackdamage: 56,
         attackdamageperlevel: 3.5,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.3
-      }
+        attackspeedperlevel: 2.3,
+      },
     },
     Darius: {
       version: "6.24.1",
@@ -997,8 +978,7 @@ export default {
       key: "122",
       name: "Darius",
       title: "the Hand of Noxus",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Darius.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Darius.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg",
       blurb:
@@ -1007,7 +987,7 @@ export default {
         attack: 9,
         defense: 5,
         magic: 1,
-        difficulty: 2
+        difficulty: 2,
       },
       image: {
         full: "Darius.png",
@@ -1016,7 +996,7 @@ export default {
         x: 384,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "MP",
@@ -1040,8 +1020,8 @@ export default {
         attackdamage: 56,
         attackdamageperlevel: 5,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1
-      }
+        attackspeedperlevel: 1,
+      },
     },
     Diana: {
       version: "6.24.1",
@@ -1049,8 +1029,7 @@ export default {
       key: "131",
       name: "Diana",
       title: "Scorn of the Moon",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Diana.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Diana.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_0.jpg",
       blurb:
@@ -1059,7 +1038,7 @@ export default {
         attack: 7,
         defense: 6,
         magic: 8,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Diana.png",
@@ -1068,7 +1047,7 @@ export default {
         x: 432,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Mage"],
       partype: "MP",
@@ -1092,8 +1071,8 @@ export default {
         attackdamage: 53.04,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.25
-      }
+        attackspeedperlevel: 2.25,
+      },
     },
     Draven: {
       version: "6.24.1",
@@ -1101,8 +1080,7 @@ export default {
       key: "119",
       name: "Draven",
       title: "the Glorious Executioner",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Draven.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Draven.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_0.jpg",
       blurb:
@@ -1111,7 +1089,7 @@ export default {
         attack: 9,
         defense: 3,
         magic: 1,
-        difficulty: 8
+        difficulty: 8,
       },
       image: {
         full: "Draven.png",
@@ -1120,7 +1098,7 @@ export default {
         x: 0,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman"],
       partype: "MP",
@@ -1144,8 +1122,8 @@ export default {
         attackdamage: 55.8,
         attackdamageperlevel: 2.91,
         attackspeedoffset: -0.08,
-        attackspeedperlevel: 2.7
-      }
+        attackspeedperlevel: 2.7,
+      },
     },
     DrMundo: {
       version: "6.24.1",
@@ -1153,8 +1131,7 @@ export default {
       key: "36",
       name: "Dr. Mundo",
       title: "the Madman of Zaun",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/DrMundo.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/DrMundo.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_0.jpg",
       blurb:
@@ -1163,7 +1140,7 @@ export default {
         attack: 5,
         defense: 7,
         magic: 6,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "DrMundo.png",
@@ -1172,7 +1149,7 @@ export default {
         x: 48,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "None",
@@ -1196,8 +1173,8 @@ export default {
         attackdamage: 61.27,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.8
-      }
+        attackspeedperlevel: 2.8,
+      },
     },
     Ekko: {
       version: "6.24.1",
@@ -1205,8 +1182,7 @@ export default {
       key: "245",
       name: "Ekko",
       title: "the Boy Who Shattered Time",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Ekko.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Ekko.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg",
       blurb:
@@ -1215,7 +1191,7 @@ export default {
         attack: 5,
         defense: 3,
         magic: 7,
-        difficulty: 8
+        difficulty: 8,
       },
       image: {
         full: "Ekko.png",
@@ -1224,7 +1200,7 @@ export default {
         x: 96,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Assassin", "Fighter"],
       partype: "MP",
@@ -1248,8 +1224,8 @@ export default {
         attackdamage: 55,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 3.3
-      }
+        attackspeedperlevel: 3.3,
+      },
     },
     Elise: {
       version: "6.24.1",
@@ -1257,8 +1233,7 @@ export default {
       key: "60",
       name: "Elise",
       title: "the Spider Queen",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Elise.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Elise.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_0.jpg",
       blurb:
@@ -1267,7 +1242,7 @@ export default {
         attack: 6,
         defense: 5,
         magic: 7,
-        difficulty: 9
+        difficulty: 9,
       },
       image: {
         full: "Elise.png",
@@ -1276,7 +1251,7 @@ export default {
         x: 144,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Fighter"],
       partype: "MP",
@@ -1300,8 +1275,8 @@ export default {
         attackdamage: 50.54,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1.75
-      }
+        attackspeedperlevel: 1.75,
+      },
     },
     Evelynn: {
       version: "6.24.1",
@@ -1309,8 +1284,7 @@ export default {
       key: "28",
       name: "Evelynn",
       title: "the Widowmaker",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Evelynn.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Evelynn.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_0.jpg",
       blurb:
@@ -1319,7 +1293,7 @@ export default {
         attack: 4,
         defense: 2,
         magic: 7,
-        difficulty: 10
+        difficulty: 10,
       },
       image: {
         full: "Evelynn.png",
@@ -1328,7 +1302,7 @@ export default {
         x: 192,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Assassin", "Mage"],
       partype: "MP",
@@ -1352,8 +1326,8 @@ export default {
         attackdamage: 53.88,
         attackdamageperlevel: 3.5,
         attackspeedoffset: 0,
-        attackspeedperlevel: 3.6
-      }
+        attackspeedperlevel: 3.6,
+      },
     },
     Ezreal: {
       version: "6.24.1",
@@ -1361,8 +1335,7 @@ export default {
       key: "81",
       name: "Ezreal",
       title: "the Prodigal Explorer",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Ezreal.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Ezreal.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_0.jpg",
       blurb:
@@ -1371,7 +1344,7 @@ export default {
         attack: 7,
         defense: 2,
         magic: 6,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Ezreal.png",
@@ -1380,7 +1353,7 @@ export default {
         x: 240,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman", "Mage"],
       partype: "MP",
@@ -1404,8 +1377,8 @@ export default {
         attackdamage: 55.66,
         attackdamageperlevel: 2.41,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.8
-      }
+        attackspeedperlevel: 2.8,
+      },
     },
     FiddleSticks: {
       version: "6.24.1",
@@ -1413,8 +1386,7 @@ export default {
       key: "9",
       name: "Fiddlesticks",
       title: "the Harbinger of Doom",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/FiddleSticks.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/FiddleSticks.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_0.jpg",
       blurb:
@@ -1423,7 +1395,7 @@ export default {
         attack: 2,
         defense: 3,
         magic: 9,
-        difficulty: 9
+        difficulty: 9,
       },
       image: {
         full: "FiddleSticks.png",
@@ -1432,7 +1404,7 @@ export default {
         x: 288,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Support"],
       partype: "MP",
@@ -1456,8 +1428,8 @@ export default {
         attackdamage: 48.36,
         attackdamageperlevel: 2.625,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.11
-      }
+        attackspeedperlevel: 2.11,
+      },
     },
     Fiora: {
       version: "6.24.1",
@@ -1465,8 +1437,7 @@ export default {
       key: "114",
       name: "Fiora",
       title: "the Grand Duelist",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Fiora.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Fiora.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_0.jpg",
       blurb:
@@ -1475,7 +1446,7 @@ export default {
         attack: 10,
         defense: 4,
         magic: 2,
-        difficulty: 3
+        difficulty: 3,
       },
       image: {
         full: "Fiora.png",
@@ -1484,7 +1455,7 @@ export default {
         x: 336,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Assassin"],
       partype: "MP",
@@ -1508,8 +1479,8 @@ export default {
         attackdamage: 60,
         attackdamageperlevel: 3.3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 3.2
-      }
+        attackspeedperlevel: 3.2,
+      },
     },
     Fizz: {
       version: "6.24.1",
@@ -1517,8 +1488,7 @@ export default {
       key: "105",
       name: "Fizz",
       title: "the Tidal Trickster",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Fizz.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Fizz.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_0.jpg",
       blurb:
@@ -1527,7 +1497,7 @@ export default {
         attack: 6,
         defense: 4,
         magic: 7,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Fizz.png",
@@ -1536,7 +1506,7 @@ export default {
         x: 384,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Assassin", "Fighter"],
       partype: "MP",
@@ -1560,8 +1530,8 @@ export default {
         attackdamage: 58.04,
         attackdamageperlevel: 3,
         attackspeedoffset: -0.05,
-        attackspeedperlevel: 3.1
-      }
+        attackspeedperlevel: 3.1,
+      },
     },
     Galio: {
       version: "6.24.1",
@@ -1569,8 +1539,7 @@ export default {
       key: "3",
       name: "Galio",
       title: "the Sentinel's Sorrow",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Galio.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Galio.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_0.jpg",
       blurb:
@@ -1579,7 +1548,7 @@ export default {
         attack: 3,
         defense: 7,
         magic: 6,
-        difficulty: 3
+        difficulty: 3,
       },
       image: {
         full: "Galio.png",
@@ -1588,7 +1557,7 @@ export default {
         x: 432,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Mage"],
       partype: "MP",
@@ -1612,8 +1581,8 @@ export default {
         attackdamage: 61.97,
         attackdamageperlevel: 3.375,
         attackspeedoffset: -0.02,
-        attackspeedperlevel: 1.2
-      }
+        attackspeedperlevel: 1.2,
+      },
     },
     Gangplank: {
       version: "6.24.1",
@@ -1621,8 +1590,7 @@ export default {
       key: "41",
       name: "Gangplank",
       title: "the Saltwater Scourge",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Gangplank.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Gangplank.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_0.jpg",
       blurb:
@@ -1631,7 +1599,7 @@ export default {
         attack: 7,
         defense: 6,
         magic: 4,
-        difficulty: 9
+        difficulty: 9,
       },
       image: {
         full: "Gangplank.png",
@@ -1640,7 +1608,7 @@ export default {
         x: 0,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter"],
       partype: "MP",
@@ -1664,8 +1632,8 @@ export default {
         attackdamage: 56,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 3.2
-      }
+        attackspeedperlevel: 3.2,
+      },
     },
     Garen: {
       version: "6.24.1",
@@ -1673,8 +1641,7 @@ export default {
       key: "86",
       name: "Garen",
       title: "The Might of Demacia",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Garen.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Garen.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg",
       blurb:
@@ -1683,7 +1650,7 @@ export default {
         attack: 7,
         defense: 7,
         magic: 1,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Garen.png",
@@ -1692,7 +1659,7 @@ export default {
         x: 48,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "None",
@@ -1716,8 +1683,8 @@ export default {
         attackdamage: 57.88,
         attackdamageperlevel: 4.5,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.9
-      }
+        attackspeedperlevel: 2.9,
+      },
     },
     Gnar: {
       version: "6.24.1",
@@ -1725,8 +1692,7 @@ export default {
       key: "150",
       name: "Gnar",
       title: "the Missing Link",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Gnar.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Gnar.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_0.jpg",
       blurb:
@@ -1735,7 +1701,7 @@ export default {
         attack: 6,
         defense: 5,
         magic: 5,
-        difficulty: 8
+        difficulty: 8,
       },
       image: {
         full: "Gnar.png",
@@ -1744,7 +1710,7 @@ export default {
         x: 96,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "Gnarfury",
@@ -1768,8 +1734,8 @@ export default {
         attackdamage: 51,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 6
-      }
+        attackspeedperlevel: 6,
+      },
     },
     Gragas: {
       version: "6.24.1",
@@ -1777,8 +1743,7 @@ export default {
       key: "79",
       name: "Gragas",
       title: "the Rabble Rouser",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Gragas.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Gragas.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_0.jpg",
       blurb:
@@ -1787,7 +1752,7 @@ export default {
         attack: 4,
         defense: 7,
         magic: 6,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Gragas.png",
@@ -1796,7 +1761,7 @@ export default {
         x: 144,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Mage"],
       partype: "MP",
@@ -1820,8 +1785,8 @@ export default {
         attackdamage: 61.38,
         attackdamageperlevel: 3.5,
         attackspeedoffset: -0.04,
-        attackspeedperlevel: 2.05
-      }
+        attackspeedperlevel: 2.05,
+      },
     },
     Graves: {
       version: "6.24.1",
@@ -1829,8 +1794,7 @@ export default {
       key: "104",
       name: "Graves",
       title: "the Outlaw",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Graves.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Graves.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_0.jpg",
       blurb:
@@ -1839,7 +1803,7 @@ export default {
         attack: 8,
         defense: 5,
         magic: 3,
-        difficulty: 3
+        difficulty: 3,
       },
       image: {
         full: "Graves.png",
@@ -1848,7 +1812,7 @@ export default {
         x: 192,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman"],
       partype: "MP",
@@ -1872,8 +1836,8 @@ export default {
         attackdamage: 60.83,
         attackdamageperlevel: 2.41,
         attackspeedoffset: 0.3,
-        attackspeedperlevel: 2.6
-      }
+        attackspeedperlevel: 2.6,
+      },
     },
     Hecarim: {
       version: "6.24.1",
@@ -1882,8 +1846,7 @@ export default {
       name: "Hecarim",
       title: "the Shadow of War",
       champkey: "Hecarim",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Hecarim.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Hecarim.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_0.jpg",
       blurb:
@@ -1892,7 +1855,7 @@ export default {
         attack: 8,
         defense: 6,
         magic: 4,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Hecarim.png",
@@ -1901,7 +1864,7 @@ export default {
         x: 240,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "MP",
@@ -1925,8 +1888,8 @@ export default {
         attackdamage: 58,
         attackdamageperlevel: 3.2,
         attackspeedoffset: -0.0672,
-        attackspeedperlevel: 2.5
-      }
+        attackspeedperlevel: 2.5,
+      },
     },
     Heimerdinger: {
       version: "6.24.1",
@@ -1934,8 +1897,7 @@ export default {
       key: "74",
       name: "Heimerdinger",
       title: "the Revered Inventor",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Heimerdinger.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Heimerdinger.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_0.jpg",
       blurb:
@@ -1944,7 +1906,7 @@ export default {
         attack: 2,
         defense: 6,
         magic: 8,
-        difficulty: 8
+        difficulty: 8,
       },
       image: {
         full: "Heimerdinger.png",
@@ -1953,7 +1915,7 @@ export default {
         x: 288,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Support"],
       partype: "MP",
@@ -1977,8 +1939,8 @@ export default {
         attackdamage: 55.536,
         attackdamageperlevel: 2.7,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1.36
-      }
+        attackspeedperlevel: 1.36,
+      },
     },
     Illaoi: {
       version: "6.24.1",
@@ -1986,8 +1948,7 @@ export default {
       key: "420",
       name: "Illaoi",
       title: "the Kraken Priestess",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Illaoi.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Illaoi.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_0.jpg",
       blurb:
@@ -1996,7 +1957,7 @@ export default {
         attack: 8,
         defense: 6,
         magic: 3,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Illaoi.png",
@@ -2005,7 +1966,7 @@ export default {
         x: 336,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "MP",
@@ -2029,8 +1990,8 @@ export default {
         attackdamage: 60,
         attackdamageperlevel: 5,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.5
-      }
+        attackspeedperlevel: 2.5,
+      },
     },
     Irelia: {
       version: "6.24.1",
@@ -2038,8 +1999,7 @@ export default {
       key: "39",
       name: "Irelia",
       title: "the Will of the Blades",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Irelia.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Irelia.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_0.jpg",
       blurb:
@@ -2048,7 +2008,7 @@ export default {
         attack: 7,
         defense: 4,
         magic: 5,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Irelia.png",
@@ -2057,7 +2017,7 @@ export default {
         x: 384,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Assassin"],
       partype: "MP",
@@ -2081,8 +2041,8 @@ export default {
         attackdamage: 61.544,
         attackdamageperlevel: 3.3,
         attackspeedoffset: -0.06,
-        attackspeedperlevel: 3.2
-      }
+        attackspeedperlevel: 3.2,
+      },
     },
     Ivern: {
       version: "6.24.1",
@@ -2090,8 +2050,7 @@ export default {
       key: "427",
       name: "Ivern",
       title: "the Green Father",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Ivern.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Ivern.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_0.jpg",
       blurb:
@@ -2100,7 +2059,7 @@ export default {
         attack: 3,
         defense: 5,
         magic: 7,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Ivern.png",
@@ -2109,7 +2068,7 @@ export default {
         x: 96,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Support", "Mage"],
       partype: "MP",
@@ -2133,8 +2092,8 @@ export default {
         attackdamage: 50,
         attackdamageperlevel: 3,
         attackspeedoffset: -0.03,
-        attackspeedperlevel: 3.4
-      }
+        attackspeedperlevel: 3.4,
+      },
     },
     Janna: {
       version: "6.24.1",
@@ -2142,8 +2101,7 @@ export default {
       key: "40",
       name: "Janna",
       title: "the Storm's Fury",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Janna.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Janna.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_0.jpg",
       blurb:
@@ -2152,7 +2110,7 @@ export default {
         attack: 3,
         defense: 5,
         magic: 7,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Janna.png",
@@ -2161,7 +2119,7 @@ export default {
         x: 432,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Support", "Mage"],
       partype: "MP",
@@ -2185,8 +2143,8 @@ export default {
         attackdamage: 51.956,
         attackdamageperlevel: 2.95,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.61
-      }
+        attackspeedperlevel: 2.61,
+      },
     },
     JarvanIV: {
       version: "6.24.1",
@@ -2194,8 +2152,7 @@ export default {
       key: "59",
       name: "Jarvan IV",
       title: "the Exemplar of Demacia",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/JarvanIV.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/JarvanIV.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_0.jpg",
       blurb:
@@ -2204,7 +2161,7 @@ export default {
         attack: 6,
         defense: 8,
         magic: 3,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "JarvanIV.png",
@@ -2213,7 +2170,7 @@ export default {
         x: 0,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Fighter"],
       partype: "MP",
@@ -2237,8 +2194,8 @@ export default {
         attackdamage: 55.712,
         attackdamageperlevel: 3.4,
         attackspeedoffset: -0.05,
-        attackspeedperlevel: 2.5
-      }
+        attackspeedperlevel: 2.5,
+      },
     },
     Jax: {
       version: "6.24.1",
@@ -2246,8 +2203,7 @@ export default {
       key: "24",
       name: "Jax",
       title: "Grandmaster at Arms",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Jax.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Jax.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_0.jpg",
       blurb:
@@ -2256,7 +2212,7 @@ export default {
         attack: 7,
         defense: 5,
         magic: 7,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Jax.png",
@@ -2265,7 +2221,7 @@ export default {
         x: 48,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Assassin"],
       partype: "MP",
@@ -2289,8 +2245,8 @@ export default {
         attackdamage: 61.97,
         attackdamageperlevel: 3.375,
         attackspeedoffset: -0.02,
-        attackspeedperlevel: 3.4
-      }
+        attackspeedperlevel: 3.4,
+      },
     },
     Jayce: {
       version: "6.24.1",
@@ -2298,8 +2254,7 @@ export default {
       key: "126",
       name: "Jayce",
       title: "the Defender of Tomorrow",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Jayce.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Jayce.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_0.jpg",
       blurb:
@@ -2308,7 +2263,7 @@ export default {
         attack: 8,
         defense: 4,
         magic: 3,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Jayce.png",
@@ -2317,7 +2272,7 @@ export default {
         x: 96,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Marksman"],
       partype: "MP",
@@ -2341,8 +2296,8 @@ export default {
         attackdamage: 50.38,
         attackdamageperlevel: 3.5,
         attackspeedoffset: -0.05,
-        attackspeedperlevel: 3
-      }
+        attackspeedperlevel: 3,
+      },
     },
     Jhin: {
       version: "6.24.1",
@@ -2350,8 +2305,7 @@ export default {
       key: "202",
       name: "Jhin",
       title: "the Virtuoso",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Jhin.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Jhin.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_0.jpg",
       blurb:
@@ -2360,7 +2314,7 @@ export default {
         attack: 10,
         defense: 2,
         magic: 6,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Jhin.png",
@@ -2369,7 +2323,7 @@ export default {
         x: 144,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman", "Assassin"],
       partype: "MP",
@@ -2393,8 +2347,8 @@ export default {
         attackdamage: 53,
         attackdamageperlevel: 4,
         attackspeedoffset: 0,
-        attackspeedperlevel: 0
-      }
+        attackspeedperlevel: 0,
+      },
     },
     Jinx: {
       version: "6.24.1",
@@ -2402,8 +2356,7 @@ export default {
       key: "222",
       name: "Jinx",
       title: "the Loose Cannon",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Jinx.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Jinx.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg",
       blurb:
@@ -2412,7 +2365,7 @@ export default {
         attack: 9,
         defense: 2,
         magic: 4,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Jinx.png",
@@ -2421,7 +2374,7 @@ export default {
         x: 192,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman"],
       partype: "MP",
@@ -2445,8 +2398,8 @@ export default {
         attackdamage: 58.46,
         attackdamageperlevel: 2.41,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1
-      }
+        attackspeedperlevel: 1,
+      },
     },
     Kalista: {
       version: "6.24.1",
@@ -2454,8 +2407,7 @@ export default {
       key: "429",
       name: "Kalista",
       title: "the Spear of Vengeance",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Kalista.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Kalista.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_0.jpg",
       blurb:
@@ -2464,7 +2416,7 @@ export default {
         attack: 8,
         defense: 2,
         magic: 4,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Kalista.png",
@@ -2473,7 +2425,7 @@ export default {
         x: 240,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman"],
       partype: "MP",
@@ -2497,8 +2449,8 @@ export default {
         attackdamage: 63,
         attackdamageperlevel: 2.9,
         attackspeedoffset: -0.03,
-        attackspeedperlevel: 2.5
-      }
+        attackspeedperlevel: 2.5,
+      },
     },
     Karma: {
       version: "6.24.1",
@@ -2506,8 +2458,7 @@ export default {
       key: "43",
       name: "Karma",
       title: "the Enlightened One",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Karma.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Karma.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_0.jpg",
       blurb:
@@ -2516,7 +2467,7 @@ export default {
         attack: 1,
         defense: 7,
         magic: 8,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Karma.png",
@@ -2525,7 +2476,7 @@ export default {
         x: 288,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Support"],
       partype: "MP",
@@ -2549,8 +2500,8 @@ export default {
         attackdamage: 53.544,
         attackdamageperlevel: 3.3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.3
-      }
+        attackspeedperlevel: 2.3,
+      },
     },
     Karthus: {
       version: "6.24.1",
@@ -2558,8 +2509,7 @@ export default {
       key: "30",
       name: "Karthus",
       title: "the Deathsinger",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Karthus.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Karthus.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_0.jpg",
       blurb:
@@ -2568,7 +2518,7 @@ export default {
         attack: 2,
         defense: 2,
         magic: 10,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Karthus.png",
@@ -2577,7 +2527,7 @@ export default {
         x: 336,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage"],
       partype: "MP",
@@ -2601,8 +2551,8 @@ export default {
         attackdamage: 45.66,
         attackdamageperlevel: 3.25,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.11
-      }
+        attackspeedperlevel: 2.11,
+      },
     },
     Kassadin: {
       version: "6.24.1",
@@ -2610,8 +2560,7 @@ export default {
       key: "38",
       name: "Kassadin",
       title: "the Void Walker",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Kassadin.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Kassadin.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_0.jpg",
       blurb:
@@ -2620,7 +2569,7 @@ export default {
         attack: 3,
         defense: 5,
         magic: 8,
-        difficulty: 8
+        difficulty: 8,
       },
       image: {
         full: "Kassadin.png",
@@ -2629,7 +2578,7 @@ export default {
         x: 384,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Assassin", "Mage"],
       partype: "MP",
@@ -2653,8 +2602,8 @@ export default {
         attackdamage: 58.852,
         attackdamageperlevel: 3.9,
         attackspeedoffset: -0.023,
-        attackspeedperlevel: 3.7
-      }
+        attackspeedperlevel: 3.7,
+      },
     },
     Katarina: {
       version: "6.24.1",
@@ -2662,8 +2611,7 @@ export default {
       key: "55",
       name: "Katarina",
       title: "the Sinister Blade",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Katarina.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Katarina.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_0.jpg",
       blurb:
@@ -2672,7 +2620,7 @@ export default {
         attack: 4,
         defense: 3,
         magic: 9,
-        difficulty: 8
+        difficulty: 8,
       },
       image: {
         full: "Katarina.png",
@@ -2681,7 +2629,7 @@ export default {
         x: 432,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Assassin", "Mage"],
       partype: "None",
@@ -2705,8 +2653,8 @@ export default {
         attackdamage: 58,
         attackdamageperlevel: 3.2,
         attackspeedoffset: -0.05,
-        attackspeedperlevel: 2.74
-      }
+        attackspeedperlevel: 2.74,
+      },
     },
     Kayle: {
       version: "6.24.1",
@@ -2714,8 +2662,7 @@ export default {
       key: "10",
       name: "Kayle",
       title: "The Judicator",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Kayle.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Kayle.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_0.jpg",
       blurb:
@@ -2724,7 +2671,7 @@ export default {
         attack: 6,
         defense: 6,
         magic: 7,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Kayle.png",
@@ -2733,7 +2680,7 @@ export default {
         x: 0,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Support"],
       partype: "MP",
@@ -2757,8 +2704,8 @@ export default {
         attackdamage: 51,
         attackdamageperlevel: 2.8,
         attackspeedoffset: -0.02,
-        attackspeedperlevel: 2.2
-      }
+        attackspeedperlevel: 2.2,
+      },
     },
     Kennen: {
       version: "6.24.1",
@@ -2766,8 +2713,7 @@ export default {
       key: "85",
       name: "Kennen",
       title: "the Heart of the Tempest",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Kennen.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Kennen.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_0.jpg",
       blurb:
@@ -2776,7 +2722,7 @@ export default {
         attack: 6,
         defense: 4,
         magic: 7,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Kennen.png",
@@ -2785,7 +2731,7 @@ export default {
         x: 48,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Marksman"],
       partype: "Energy",
@@ -2809,8 +2755,8 @@ export default {
         attackdamage: 50.544,
         attackdamageperlevel: 3.3,
         attackspeedoffset: -0.0947,
-        attackspeedperlevel: 3.4
-      }
+        attackspeedperlevel: 3.4,
+      },
     },
     Khazix: {
       version: "6.24.1",
@@ -2818,8 +2764,7 @@ export default {
       key: "121",
       name: "Kha'Zix",
       title: "the Voidreaver",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Khazix.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Khazix.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_0.jpg",
       blurb:
@@ -2828,7 +2773,7 @@ export default {
         attack: 9,
         defense: 4,
         magic: 3,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Khazix.png",
@@ -2837,7 +2782,7 @@ export default {
         x: 96,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Assassin", "Fighter"],
       partype: "MP",
@@ -2861,8 +2806,8 @@ export default {
         attackdamage: 55.21,
         attackdamageperlevel: 3.1,
         attackspeedoffset: -0.065,
-        attackspeedperlevel: 2.7
-      }
+        attackspeedperlevel: 2.7,
+      },
     },
     Kindred: {
       version: "6.24.1",
@@ -2870,8 +2815,7 @@ export default {
       key: "203",
       name: "Kindred",
       title: "The Eternal Hunters",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Kindred.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Kindred.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_0.jpg",
       blurb:
@@ -2880,7 +2824,7 @@ export default {
         attack: 8,
         defense: 2,
         magic: 2,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Kindred.png",
@@ -2889,7 +2833,7 @@ export default {
         x: 144,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman"],
       partype: "MP",
@@ -2913,8 +2857,8 @@ export default {
         attackdamage: 54,
         attackdamageperlevel: 1.7,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.5
-      }
+        attackspeedperlevel: 2.5,
+      },
     },
     Kled: {
       version: "6.24.1",
@@ -2922,8 +2866,7 @@ export default {
       key: "240",
       name: "Kled",
       title: "the Cantankerous Cavalier",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Kled.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Kled.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_0.jpg",
       blurb:
@@ -2932,7 +2875,7 @@ export default {
         attack: 8,
         defense: 2,
         magic: 2,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Kled.png",
@@ -2941,7 +2884,7 @@ export default {
         x: 48,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "Gnarfury",
@@ -2965,8 +2908,8 @@ export default {
         attackdamage: 55,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 3.5
-      }
+        attackspeedperlevel: 3.5,
+      },
     },
     KogMaw: {
       version: "6.24.1",
@@ -2974,8 +2917,7 @@ export default {
       key: "96",
       name: "Kog'Maw",
       title: "the Mouth of the Abyss",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/KogMaw.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/KogMaw.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_0.jpg",
       blurb:
@@ -2984,7 +2926,7 @@ export default {
         attack: 8,
         defense: 2,
         magic: 5,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "KogMaw.png",
@@ -2993,7 +2935,7 @@ export default {
         x: 192,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman", "Mage"],
       partype: "MP",
@@ -3017,8 +2959,8 @@ export default {
         attackdamage: 57.46,
         attackdamageperlevel: 2.41,
         attackspeedoffset: -0.06,
-        attackspeedperlevel: 2.65
-      }
+        attackspeedperlevel: 2.65,
+      },
     },
     Leblanc: {
       version: "6.24.1",
@@ -3026,8 +2968,7 @@ export default {
       key: "7",
       name: "LeBlanc",
       title: "the Deceiver",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Leblanc.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Leblanc.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_0.jpg",
       blurb:
@@ -3036,7 +2977,7 @@ export default {
         attack: 1,
         defense: 4,
         magic: 10,
-        difficulty: 9
+        difficulty: 9,
       },
       image: {
         full: "Leblanc.png",
@@ -3045,7 +2986,7 @@ export default {
         x: 240,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Assassin", "Mage"],
       partype: "MP",
@@ -3069,8 +3010,8 @@ export default {
         attackdamage: 54.88,
         attackdamageperlevel: 3.5,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1.4
-      }
+        attackspeedperlevel: 1.4,
+      },
     },
     LeeSin: {
       version: "6.24.1",
@@ -3078,8 +3019,7 @@ export default {
       key: "64",
       name: "Lee Sin",
       title: "the Blind Monk",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/LeeSin.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/LeeSin.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_0.jpg",
       blurb:
@@ -3088,7 +3028,7 @@ export default {
         attack: 8,
         defense: 5,
         magic: 3,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "LeeSin.png",
@@ -3097,7 +3037,7 @@ export default {
         x: 288,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Assassin"],
       partype: "Energy",
@@ -3121,8 +3061,8 @@ export default {
         attackdamage: 61.176,
         attackdamageperlevel: 3.2,
         attackspeedoffset: -0.04,
-        attackspeedperlevel: 3
-      }
+        attackspeedperlevel: 3,
+      },
     },
     Leona: {
       version: "6.24.1",
@@ -3130,8 +3070,7 @@ export default {
       key: "89",
       name: "Leona",
       title: "the Radiant Dawn",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Leona.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Leona.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_0.jpg",
       blurb:
@@ -3140,7 +3079,7 @@ export default {
         attack: 4,
         defense: 8,
         magic: 3,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Leona.png",
@@ -3149,7 +3088,7 @@ export default {
         x: 336,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Support"],
       partype: "MP",
@@ -3173,8 +3112,8 @@ export default {
         attackdamage: 60.04,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.9
-      }
+        attackspeedperlevel: 2.9,
+      },
     },
     Lissandra: {
       version: "6.24.1",
@@ -3182,8 +3121,7 @@ export default {
       key: "127",
       name: "Lissandra",
       title: "the Ice Witch",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Lissandra.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Lissandra.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_0.jpg",
       blurb:
@@ -3192,7 +3130,7 @@ export default {
         attack: 2,
         defense: 5,
         magic: 8,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Lissandra.png",
@@ -3201,7 +3139,7 @@ export default {
         x: 384,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage"],
       partype: "MP",
@@ -3225,8 +3163,8 @@ export default {
         attackdamage: 50.536,
         attackdamageperlevel: 2.7,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1.36
-      }
+        attackspeedperlevel: 1.36,
+      },
     },
     Lucian: {
       version: "6.24.1",
@@ -3234,8 +3172,7 @@ export default {
       key: "236",
       name: "Lucian",
       title: "the Purifier",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Lucian.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Lucian.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_0.jpg",
       blurb:
@@ -3244,7 +3181,7 @@ export default {
         attack: 8,
         defense: 5,
         magic: 3,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Lucian.png",
@@ -3253,7 +3190,7 @@ export default {
         x: 432,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman"],
       partype: "MP",
@@ -3277,8 +3214,8 @@ export default {
         attackdamage: 57.46,
         attackdamageperlevel: 2.41,
         attackspeedoffset: -0.02,
-        attackspeedperlevel: 3.3
-      }
+        attackspeedperlevel: 3.3,
+      },
     },
     Lulu: {
       version: "6.24.1",
@@ -3286,8 +3223,7 @@ export default {
       key: "117",
       name: "Lulu",
       title: "the Fae Sorceress",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Lulu.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Lulu.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_0.jpg",
       blurb:
@@ -3296,7 +3232,7 @@ export default {
         attack: 4,
         defense: 5,
         magic: 7,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Lulu.png",
@@ -3305,7 +3241,7 @@ export default {
         x: 0,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Support", "Mage"],
       partype: "MP",
@@ -3329,8 +3265,8 @@ export default {
         attackdamage: 46.368,
         attackdamageperlevel: 2.6,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.25
-      }
+        attackspeedperlevel: 2.25,
+      },
     },
     Lux: {
       version: "6.24.1",
@@ -3338,8 +3274,7 @@ export default {
       key: "99",
       name: "Lux",
       title: "the Lady of Luminosity",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Lux.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Lux.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg",
       blurb:
@@ -3348,7 +3283,7 @@ export default {
         attack: 2,
         defense: 4,
         magic: 9,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Lux.png",
@@ -3357,7 +3292,7 @@ export default {
         x: 48,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Support"],
       partype: "MP",
@@ -3381,8 +3316,8 @@ export default {
         attackdamage: 53.544,
         attackdamageperlevel: 3.3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1.36
-      }
+        attackspeedperlevel: 1.36,
+      },
     },
     Malphite: {
       version: "6.24.1",
@@ -3390,8 +3325,7 @@ export default {
       key: "54",
       name: "Malphite",
       title: "Shard of the Monolith",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Malphite.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Malphite.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_0.jpg",
       blurb:
@@ -3400,7 +3334,7 @@ export default {
         attack: 5,
         defense: 9,
         magic: 7,
-        difficulty: 2
+        difficulty: 2,
       },
       image: {
         full: "Malphite.png",
@@ -3409,7 +3343,7 @@ export default {
         x: 96,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Fighter"],
       partype: "MP",
@@ -3433,8 +3367,8 @@ export default {
         attackdamage: 61.97,
         attackdamageperlevel: 3.375,
         attackspeedoffset: -0.02,
-        attackspeedperlevel: 3.4
-      }
+        attackspeedperlevel: 3.4,
+      },
     },
     Malzahar: {
       version: "6.24.1",
@@ -3442,8 +3376,7 @@ export default {
       key: "90",
       name: "Malzahar",
       title: "the Prophet of the Void",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Malzahar.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Malzahar.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_0.jpg",
       blurb:
@@ -3452,7 +3385,7 @@ export default {
         attack: 2,
         defense: 2,
         magic: 9,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Malzahar.png",
@@ -3461,7 +3394,7 @@ export default {
         x: 144,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Assassin"],
       partype: "MP",
@@ -3485,8 +3418,8 @@ export default {
         attackdamage: 55,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1.5
-      }
+        attackspeedperlevel: 1.5,
+      },
     },
     Maokai: {
       version: "6.24.1",
@@ -3494,8 +3427,7 @@ export default {
       key: "57",
       name: "Maokai",
       title: "the Twisted Treant",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Maokai.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Maokai.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_0.jpg",
       blurb:
@@ -3504,7 +3436,7 @@ export default {
         attack: 3,
         defense: 8,
         magic: 6,
-        difficulty: 3
+        difficulty: 3,
       },
       image: {
         full: "Maokai.png",
@@ -3513,7 +3445,7 @@ export default {
         x: 192,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Mage"],
       partype: "MP",
@@ -3537,8 +3469,8 @@ export default {
         attackdamage: 63.544,
         attackdamageperlevel: 3.3,
         attackspeedoffset: -0.1,
-        attackspeedperlevel: 2.125
-      }
+        attackspeedperlevel: 2.125,
+      },
     },
     MasterYi: {
       version: "6.24.1",
@@ -3546,8 +3478,7 @@ export default {
       key: "11",
       name: "Master Yi",
       title: "the Wuju Bladesman",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/MasterYi.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/MasterYi.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_0.jpg",
       blurb:
@@ -3556,7 +3487,7 @@ export default {
         attack: 10,
         defense: 4,
         magic: 2,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "MasterYi.png",
@@ -3565,7 +3496,7 @@ export default {
         x: 240,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Assassin", "Fighter"],
       partype: "MP",
@@ -3589,8 +3520,8 @@ export default {
         attackdamage: 60.04,
         attackdamageperlevel: 3,
         attackspeedoffset: -0.08,
-        attackspeedperlevel: 2
-      }
+        attackspeedperlevel: 2,
+      },
     },
     MissFortune: {
       version: "6.24.1",
@@ -3598,8 +3529,7 @@ export default {
       key: "21",
       name: "Miss Fortune",
       title: "the Bounty Hunter",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/MissFortune.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/MissFortune.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_0.jpg",
       blurb:
@@ -3608,7 +3538,7 @@ export default {
         attack: 8,
         defense: 2,
         magic: 5,
-        difficulty: 1
+        difficulty: 1,
       },
       image: {
         full: "MissFortune.png",
@@ -3617,7 +3547,7 @@ export default {
         x: 288,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman"],
       partype: "MP",
@@ -3641,8 +3571,8 @@ export default {
         attackdamage: 46,
         attackdamageperlevel: 1,
         attackspeedoffset: -0.04734,
-        attackspeedperlevel: 3
-      }
+        attackspeedperlevel: 3,
+      },
     },
     MonkeyKing: {
       version: "6.24.1",
@@ -3650,8 +3580,7 @@ export default {
       key: "62",
       name: "Wukong",
       title: "the Monkey King",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/MonkeyKing.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/MonkeyKing.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/MonkeyKing_0.jpg",
       blurb:
@@ -3660,7 +3589,7 @@ export default {
         attack: 8,
         defense: 5,
         magic: 2,
-        difficulty: 3
+        difficulty: 3,
       },
       image: {
         full: "MonkeyKing.png",
@@ -3669,7 +3598,7 @@ export default {
         x: 336,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "MP",
@@ -3693,8 +3622,8 @@ export default {
         attackdamage: 59.876,
         attackdamageperlevel: 3.2,
         attackspeedoffset: -0.05,
-        attackspeedperlevel: 3
-      }
+        attackspeedperlevel: 3,
+      },
     },
     Mordekaiser: {
       version: "6.24.1",
@@ -3702,8 +3631,7 @@ export default {
       key: "82",
       name: "Mordekaiser",
       title: "the Iron Revenant",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Mordekaiser.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Mordekaiser.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg",
       blurb:
@@ -3712,7 +3640,7 @@ export default {
         attack: 4,
         defense: 6,
         magic: 7,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Mordekaiser.png",
@@ -3721,7 +3649,7 @@ export default {
         x: 384,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter"],
       partype: "None",
@@ -3745,8 +3673,8 @@ export default {
         attackdamage: 61,
         attackdamageperlevel: 5,
         attackspeedoffset: 0.04,
-        attackspeedperlevel: 2.2
-      }
+        attackspeedperlevel: 2.2,
+      },
     },
     Morgana: {
       version: "6.24.1",
@@ -3754,8 +3682,7 @@ export default {
       key: "25",
       name: "Morgana",
       title: "Fallen Angel",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Morgana.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Morgana.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_0.jpg",
       blurb:
@@ -3764,7 +3691,7 @@ export default {
         attack: 1,
         defense: 6,
         magic: 8,
-        difficulty: 1
+        difficulty: 1,
       },
       image: {
         full: "Morgana.png",
@@ -3773,7 +3700,7 @@ export default {
         x: 432,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Support"],
       partype: "MP",
@@ -3797,8 +3724,8 @@ export default {
         attackdamage: 55.46,
         attackdamageperlevel: 3.5,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1.53
-      }
+        attackspeedperlevel: 1.53,
+      },
     },
     Nami: {
       version: "6.24.1",
@@ -3806,8 +3733,7 @@ export default {
       key: "267",
       name: "Nami",
       title: "the Tidecaller",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Nami.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Nami.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_0.jpg",
       blurb:
@@ -3816,7 +3742,7 @@ export default {
         attack: 4,
         defense: 3,
         magic: 7,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Nami.png",
@@ -3825,7 +3751,7 @@ export default {
         x: 0,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Support", "Mage"],
       partype: "MP",
@@ -3849,8 +3775,8 @@ export default {
         attackdamage: 51.208,
         attackdamageperlevel: 3.1,
         attackspeedoffset: -0.03,
-        attackspeedperlevel: 2.61
-      }
+        attackspeedperlevel: 2.61,
+      },
     },
     Nasus: {
       version: "6.24.1",
@@ -3858,8 +3784,7 @@ export default {
       key: "75",
       name: "Nasus",
       title: "the Curator of the Sands",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Nasus.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Nasus.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_0.jpg",
       blurb:
@@ -3868,7 +3793,7 @@ export default {
         attack: 7,
         defense: 5,
         magic: 6,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Nasus.png",
@@ -3877,7 +3802,7 @@ export default {
         x: 48,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "MP",
@@ -3901,8 +3826,8 @@ export default {
         attackdamage: 59.18,
         attackdamageperlevel: 3.5,
         attackspeedoffset: -0.02,
-        attackspeedperlevel: 3.48
-      }
+        attackspeedperlevel: 3.48,
+      },
     },
     Nautilus: {
       version: "6.24.1",
@@ -3910,8 +3835,7 @@ export default {
       key: "111",
       name: "Nautilus",
       title: "the Titan of the Depths",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Nautilus.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Nautilus.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_0.jpg",
       blurb:
@@ -3920,7 +3844,7 @@ export default {
         attack: 4,
         defense: 6,
         magic: 6,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Nautilus.png",
@@ -3929,7 +3853,7 @@ export default {
         x: 96,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Fighter"],
       partype: "MP",
@@ -3953,8 +3877,8 @@ export default {
         attackdamage: 57.544,
         attackdamageperlevel: 3.3,
         attackspeedoffset: 0.02,
-        attackspeedperlevel: 1
-      }
+        attackspeedperlevel: 1,
+      },
     },
     Nidalee: {
       version: "6.24.1",
@@ -3962,8 +3886,7 @@ export default {
       key: "76",
       name: "Nidalee",
       title: "the Bestial Huntress",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Nidalee.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Nidalee.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_0.jpg",
       blurb:
@@ -3972,7 +3895,7 @@ export default {
         attack: 5,
         defense: 4,
         magic: 7,
-        difficulty: 8
+        difficulty: 8,
       },
       image: {
         full: "Nidalee.png",
@@ -3981,7 +3904,7 @@ export default {
         x: 144,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Assassin", "Fighter"],
       partype: "MP",
@@ -4005,8 +3928,8 @@ export default {
         attackdamage: 53,
         attackdamageperlevel: 3.5,
         attackspeedoffset: -0.02,
-        attackspeedperlevel: 3.22
-      }
+        attackspeedperlevel: 3.22,
+      },
     },
     Nocturne: {
       version: "6.24.1",
@@ -4014,8 +3937,7 @@ export default {
       key: "56",
       name: "Nocturne",
       title: "the Eternal Nightmare",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Nocturne.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Nocturne.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_0.jpg",
       blurb:
@@ -4024,7 +3946,7 @@ export default {
         attack: 9,
         defense: 5,
         magic: 2,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Nocturne.png",
@@ -4033,7 +3955,7 @@ export default {
         x: 192,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Assassin", "Fighter"],
       partype: "MP",
@@ -4057,8 +3979,8 @@ export default {
         attackdamage: 59.208,
         attackdamageperlevel: 3.1,
         attackspeedoffset: -0.065,
-        attackspeedperlevel: 2.7
-      }
+        attackspeedperlevel: 2.7,
+      },
     },
     Nunu: {
       version: "6.24.1",
@@ -4066,8 +3988,7 @@ export default {
       key: "20",
       name: "Nunu",
       title: "the Yeti Rider",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Nunu.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Nunu.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nunu_0.jpg",
       blurb:
@@ -4076,7 +3997,7 @@ export default {
         attack: 4,
         defense: 6,
         magic: 7,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Nunu.png",
@@ -4085,7 +4006,7 @@ export default {
         x: 240,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Support", "Fighter"],
       partype: "MP",
@@ -4109,8 +4030,8 @@ export default {
         attackdamage: 59,
         attackdamageperlevel: 4,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.25
-      }
+        attackspeedperlevel: 2.25,
+      },
     },
     Olaf: {
       version: "6.24.1",
@@ -4118,8 +4039,7 @@ export default {
       key: "2",
       name: "Olaf",
       title: "the Berserker",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Olaf.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Olaf.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_0.jpg",
       blurb:
@@ -4128,7 +4048,7 @@ export default {
         attack: 9,
         defense: 5,
         magic: 3,
-        difficulty: 3
+        difficulty: 3,
       },
       image: {
         full: "Olaf.png",
@@ -4137,7 +4057,7 @@ export default {
         x: 288,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "MP",
@@ -4161,8 +4081,8 @@ export default {
         attackdamage: 59.98,
         attackdamageperlevel: 3.5,
         attackspeedoffset: -0.1,
-        attackspeedperlevel: 2.7
-      }
+        attackspeedperlevel: 2.7,
+      },
     },
     Orianna: {
       version: "6.24.1",
@@ -4170,8 +4090,7 @@ export default {
       key: "61",
       name: "Orianna",
       title: "the Lady of Clockwork",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Orianna.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Orianna.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_0.jpg",
       blurb:
@@ -4180,7 +4099,7 @@ export default {
         attack: 4,
         defense: 3,
         magic: 9,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Orianna.png",
@@ -4189,7 +4108,7 @@ export default {
         x: 336,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Support"],
       partype: "MP",
@@ -4213,8 +4132,8 @@ export default {
         attackdamage: 40.368,
         attackdamageperlevel: 2.6,
         attackspeedoffset: -0.05,
-        attackspeedperlevel: 3.5
-      }
+        attackspeedperlevel: 3.5,
+      },
     },
     Pantheon: {
       version: "6.24.1",
@@ -4222,8 +4141,7 @@ export default {
       key: "80",
       name: "Pantheon",
       title: "the Artisan of War",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Pantheon.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Pantheon.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg",
       blurb:
@@ -4232,7 +4150,7 @@ export default {
         attack: 9,
         defense: 4,
         magic: 3,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Pantheon.png",
@@ -4241,7 +4159,7 @@ export default {
         x: 384,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Assassin"],
       partype: "MP",
@@ -4265,8 +4183,8 @@ export default {
         attackdamage: 55.572,
         attackdamageperlevel: 2.9,
         attackspeedoffset: -0.03,
-        attackspeedperlevel: 2.95
-      }
+        attackspeedperlevel: 2.95,
+      },
     },
     Poppy: {
       version: "6.24.1",
@@ -4274,8 +4192,7 @@ export default {
       key: "78",
       name: "Poppy",
       title: "Keeper of the Hammer",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Poppy.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Poppy.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_0.jpg",
       blurb:
@@ -4284,7 +4201,7 @@ export default {
         attack: 6,
         defense: 7,
         magic: 2,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Poppy.png",
@@ -4293,7 +4210,7 @@ export default {
         x: 432,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Fighter"],
       partype: "MP",
@@ -4317,8 +4234,8 @@ export default {
         attackdamage: 56,
         attackdamageperlevel: 4,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.5
-      }
+        attackspeedperlevel: 2.5,
+      },
     },
     Quinn: {
       version: "6.24.1",
@@ -4326,8 +4243,7 @@ export default {
       key: "133",
       name: "Quinn",
       title: "Demacia's Wings",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Quinn.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Quinn.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_0.jpg",
       blurb:
@@ -4336,7 +4252,7 @@ export default {
         attack: 9,
         defense: 4,
         magic: 2,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Quinn.png",
@@ -4345,7 +4261,7 @@ export default {
         x: 0,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman", "Fighter"],
       partype: "MP",
@@ -4369,8 +4285,8 @@ export default {
         attackdamage: 54.46,
         attackdamageperlevel: 2.41,
         attackspeedoffset: -0.065,
-        attackspeedperlevel: 3.1
-      }
+        attackspeedperlevel: 3.1,
+      },
     },
     Rammus: {
       version: "6.24.1",
@@ -4378,8 +4294,7 @@ export default {
       key: "33",
       name: "Rammus",
       title: "the Armordillo",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Rammus.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Rammus.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_0.jpg",
       blurb:
@@ -4388,7 +4303,7 @@ export default {
         attack: 4,
         defense: 10,
         magic: 5,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Rammus.png",
@@ -4397,7 +4312,7 @@ export default {
         x: 48,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Fighter"],
       partype: "MP",
@@ -4421,8 +4336,8 @@ export default {
         attackdamage: 55.88,
         attackdamageperlevel: 3.5,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.215
-      }
+        attackspeedperlevel: 2.215,
+      },
     },
     RekSai: {
       version: "6.24.1",
@@ -4430,8 +4345,7 @@ export default {
       key: "421",
       name: "Rek'Sai",
       title: "the Void Burrower",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/RekSai.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/RekSai.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_0.jpg",
       blurb:
@@ -4440,7 +4354,7 @@ export default {
         attack: 8,
         defense: 5,
         magic: 2,
-        difficulty: 3
+        difficulty: 3,
       },
       image: {
         full: "RekSai.png",
@@ -4449,7 +4363,7 @@ export default {
         x: 96,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter"],
       partype: "Battlefury",
@@ -4473,8 +4387,8 @@ export default {
         attackdamage: 55.628,
         attackdamageperlevel: 3.35,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2
-      }
+        attackspeedperlevel: 2,
+      },
     },
     Renekton: {
       version: "6.24.1",
@@ -4482,8 +4396,7 @@ export default {
       key: "58",
       name: "Renekton",
       title: "the Butcher of the Sands",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Renekton.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Renekton.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_0.jpg",
       blurb:
@@ -4492,7 +4405,7 @@ export default {
         attack: 8,
         defense: 5,
         magic: 2,
-        difficulty: 3
+        difficulty: 3,
       },
       image: {
         full: "Renekton.png",
@@ -4501,7 +4414,7 @@ export default {
         x: 144,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "Rage",
@@ -4525,8 +4438,8 @@ export default {
         attackdamage: 58.328,
         attackdamageperlevel: 3.1,
         attackspeedoffset: -0.06,
-        attackspeedperlevel: 2.65
-      }
+        attackspeedperlevel: 2.65,
+      },
     },
     Rengar: {
       version: "6.24.1",
@@ -4534,8 +4447,7 @@ export default {
       key: "107",
       name: "Rengar",
       title: "the Pridestalker",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Rengar.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Rengar.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_0.jpg",
       blurb:
@@ -4544,7 +4456,7 @@ export default {
         attack: 7,
         defense: 4,
         magic: 2,
-        difficulty: 8
+        difficulty: 8,
       },
       image: {
         full: "Rengar.png",
@@ -4553,7 +4465,7 @@ export default {
         x: 192,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Assassin", "Fighter"],
       partype: "Ferocity",
@@ -4577,8 +4489,8 @@ export default {
         attackdamage: 60,
         attackdamageperlevel: 1.5,
         attackspeedoffset: 0,
-        attackspeedperlevel: 3.5
-      }
+        attackspeedperlevel: 3.5,
+      },
     },
     Riven: {
       version: "6.24.1",
@@ -4586,8 +4498,7 @@ export default {
       key: "92",
       name: "Riven",
       title: "the Exile",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Riven.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Riven.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_0.jpg",
       blurb:
@@ -4596,7 +4507,7 @@ export default {
         attack: 8,
         defense: 5,
         magic: 1,
-        difficulty: 8
+        difficulty: 8,
       },
       image: {
         full: "Riven.png",
@@ -4605,7 +4516,7 @@ export default {
         x: 240,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Assassin"],
       partype: "None",
@@ -4629,8 +4540,8 @@ export default {
         attackdamage: 56.04,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 3.5
-      }
+        attackspeedperlevel: 3.5,
+      },
     },
     Rumble: {
       version: "6.24.1",
@@ -4638,8 +4549,7 @@ export default {
       key: "68",
       name: "Rumble",
       title: "the Mechanized Menace",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Rumble.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Rumble.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_0.jpg",
       blurb:
@@ -4648,7 +4558,7 @@ export default {
         attack: 3,
         defense: 6,
         magic: 8,
-        difficulty: 10
+        difficulty: 10,
       },
       image: {
         full: "Rumble.png",
@@ -4657,7 +4567,7 @@ export default {
         x: 288,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Mage"],
       partype: "Heat",
@@ -4681,8 +4591,8 @@ export default {
         attackdamage: 61.036,
         attackdamageperlevel: 3.2,
         attackspeedoffset: -0.03,
-        attackspeedperlevel: 1.85
-      }
+        attackspeedperlevel: 1.85,
+      },
     },
     Ryze: {
       version: "6.24.1",
@@ -4690,8 +4600,7 @@ export default {
       key: "13",
       name: "Ryze",
       title: "the Rune Mage",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Ryze.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Ryze.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_0.jpg",
       blurb:
@@ -4700,7 +4609,7 @@ export default {
         attack: 2,
         defense: 2,
         magic: 10,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Ryze.png",
@@ -4709,7 +4618,7 @@ export default {
         x: 336,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Fighter"],
       partype: "MP",
@@ -4733,8 +4642,8 @@ export default {
         attackdamage: 55.04,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.112
-      }
+        attackspeedperlevel: 2.112,
+      },
     },
     Sejuani: {
       version: "6.24.1",
@@ -4742,8 +4651,7 @@ export default {
       key: "113",
       name: "Sejuani",
       title: "the Winter's Wrath",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Sejuani.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Sejuani.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_0.jpg",
       blurb:
@@ -4752,7 +4660,7 @@ export default {
         attack: 5,
         defense: 7,
         magic: 6,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Sejuani.png",
@@ -4761,7 +4669,7 @@ export default {
         x: 384,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Fighter"],
       partype: "MP",
@@ -4785,8 +4693,8 @@ export default {
         attackdamage: 57.544,
         attackdamageperlevel: 3.3,
         attackspeedoffset: -0.0672,
-        attackspeedperlevel: 1.44
-      }
+        attackspeedperlevel: 1.44,
+      },
     },
     Shaco: {
       version: "6.24.1",
@@ -4794,8 +4702,7 @@ export default {
       key: "35",
       name: "Shaco",
       title: "the Demon Jester",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Shaco.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Shaco.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_0.jpg",
       blurb:
@@ -4804,7 +4711,7 @@ export default {
         attack: 8,
         defense: 4,
         magic: 6,
-        difficulty: 9
+        difficulty: 9,
       },
       image: {
         full: "Shaco.png",
@@ -4813,7 +4720,7 @@ export default {
         x: 432,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Assassin"],
       partype: "MP",
@@ -4837,8 +4744,8 @@ export default {
         attackdamage: 57.58,
         attackdamageperlevel: 3.5,
         attackspeedoffset: -0.1,
-        attackspeedperlevel: 3
-      }
+        attackspeedperlevel: 3,
+      },
     },
     Shen: {
       version: "6.24.1",
@@ -4846,8 +4753,7 @@ export default {
       key: "98",
       name: "Shen",
       title: "the Eye of Twilight",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Shen.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Shen.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_0.jpg",
       blurb:
@@ -4856,7 +4762,7 @@ export default {
         attack: 3,
         defense: 9,
         magic: 3,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Shen.png",
@@ -4865,7 +4771,7 @@ export default {
         x: 0,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Melee"],
       partype: "Energy",
@@ -4889,8 +4795,8 @@ export default {
         attackdamage: 60,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2
-      }
+        attackspeedperlevel: 2,
+      },
     },
     Shyvana: {
       version: "6.24.1",
@@ -4898,8 +4804,7 @@ export default {
       key: "102",
       name: "Shyvana",
       title: "the Half-Dragon",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Shyvana.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Shyvana.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_0.jpg",
       blurb:
@@ -4908,7 +4813,7 @@ export default {
         attack: 8,
         defense: 6,
         magic: 3,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Shyvana.png",
@@ -4917,7 +4822,7 @@ export default {
         x: 48,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "Dragonfury",
@@ -4941,8 +4846,8 @@ export default {
         attackdamage: 60.712,
         attackdamageperlevel: 3.4,
         attackspeedoffset: -0.05,
-        attackspeedperlevel: 2.5
-      }
+        attackspeedperlevel: 2.5,
+      },
     },
     Singed: {
       version: "6.24.1",
@@ -4950,8 +4855,7 @@ export default {
       key: "27",
       name: "Singed",
       title: "the Mad Chemist",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Singed.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Singed.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_0.jpg",
       blurb:
@@ -4960,7 +4864,7 @@ export default {
         attack: 4,
         defense: 8,
         magic: 7,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Singed.png",
@@ -4969,7 +4873,7 @@ export default {
         x: 96,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Fighter"],
       partype: "MP",
@@ -4993,8 +4897,8 @@ export default {
         attackdamage: 62.32,
         attackdamageperlevel: 3.375,
         attackspeedoffset: 0.02,
-        attackspeedperlevel: 1.81
-      }
+        attackspeedperlevel: 1.81,
+      },
     },
     Sion: {
       version: "6.24.1",
@@ -5002,8 +4906,7 @@ export default {
       key: "14",
       name: "Sion",
       title: "The Undead Juggernaut",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Sion.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Sion.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_0.jpg",
       blurb:
@@ -5012,7 +4915,7 @@ export default {
         attack: 5,
         defense: 9,
         magic: 3,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Sion.png",
@@ -5021,7 +4924,7 @@ export default {
         x: 144,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Fighter"],
       partype: "MP",
@@ -5045,8 +4948,8 @@ export default {
         attackdamage: 59.72,
         attackdamageperlevel: 4,
         attackspeedoffset: -0.08,
-        attackspeedperlevel: 1.3
-      }
+        attackspeedperlevel: 1.3,
+      },
     },
     Sivir: {
       version: "6.24.1",
@@ -5054,8 +4957,7 @@ export default {
       key: "15",
       name: "Sivir",
       title: "the Battle Mistress",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Sivir.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Sivir.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_0.jpg",
       blurb:
@@ -5064,7 +4966,7 @@ export default {
         attack: 9,
         defense: 3,
         magic: 1,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Sivir.png",
@@ -5073,7 +4975,7 @@ export default {
         x: 192,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman"],
       partype: "MP",
@@ -5097,8 +4999,8 @@ export default {
         attackdamage: 57.46,
         attackdamageperlevel: 2.41,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1.6
-      }
+        attackspeedperlevel: 1.6,
+      },
     },
     Skarner: {
       version: "6.24.1",
@@ -5106,8 +5008,7 @@ export default {
       key: "72",
       name: "Skarner",
       title: "the Crystal Vanguard",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Skarner.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Skarner.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_0.jpg",
       blurb:
@@ -5116,7 +5017,7 @@ export default {
         attack: 7,
         defense: 6,
         magic: 5,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Skarner.png",
@@ -5125,7 +5026,7 @@ export default {
         x: 240,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "MP",
@@ -5149,8 +5050,8 @@ export default {
         attackdamage: 57.156,
         attackdamageperlevel: 4.5,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.1
-      }
+        attackspeedperlevel: 2.1,
+      },
     },
     Sona: {
       version: "6.24.1",
@@ -5158,8 +5059,7 @@ export default {
       key: "37",
       name: "Sona",
       title: "Maven of the Strings",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Sona.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Sona.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_0.jpg",
       blurb:
@@ -5168,7 +5068,7 @@ export default {
         attack: 5,
         defense: 2,
         magic: 8,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Sona.png",
@@ -5177,7 +5077,7 @@ export default {
         x: 288,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Support", "Mage"],
       partype: "MP",
@@ -5201,8 +5101,8 @@ export default {
         attackdamage: 50.04,
         attackdamageperlevel: 3,
         attackspeedoffset: -0.03,
-        attackspeedperlevel: 2.3
-      }
+        attackspeedperlevel: 2.3,
+      },
     },
     Soraka: {
       version: "6.24.1",
@@ -5210,8 +5110,7 @@ export default {
       key: "16",
       name: "Soraka",
       title: "the Starchild",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Soraka.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Soraka.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_0.jpg",
       blurb:
@@ -5220,7 +5119,7 @@ export default {
         attack: 2,
         defense: 5,
         magic: 7,
-        difficulty: 3
+        difficulty: 3,
       },
       image: {
         full: "Soraka.png",
@@ -5229,7 +5128,7 @@ export default {
         x: 336,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Support", "Mage"],
       partype: "MP",
@@ -5253,8 +5152,8 @@ export default {
         attackdamage: 50.04,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.14
-      }
+        attackspeedperlevel: 2.14,
+      },
     },
     Swain: {
       version: "6.24.1",
@@ -5262,8 +5161,7 @@ export default {
       key: "50",
       name: "Swain",
       title: "the Master Tactician",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Swain.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Swain.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_0.jpg",
       blurb:
@@ -5272,7 +5170,7 @@ export default {
         attack: 2,
         defense: 6,
         magic: 9,
-        difficulty: 8
+        difficulty: 8,
       },
       image: {
         full: "Swain.png",
@@ -5281,7 +5179,7 @@ export default {
         x: 384,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Fighter"],
       partype: "MP",
@@ -5305,8 +5203,8 @@ export default {
         attackdamage: 52.04,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.11
-      }
+        attackspeedperlevel: 2.11,
+      },
     },
     Syndra: {
       version: "6.24.1",
@@ -5314,8 +5212,7 @@ export default {
       key: "134",
       name: "Syndra",
       title: "the Dark Sovereign",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Syndra.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Syndra.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_0.jpg",
       blurb:
@@ -5324,7 +5221,7 @@ export default {
         attack: 2,
         defense: 3,
         magic: 9,
-        difficulty: 8
+        difficulty: 8,
       },
       image: {
         full: "Syndra.png",
@@ -5333,7 +5230,7 @@ export default {
         x: 432,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Support"],
       partype: "MP",
@@ -5357,8 +5254,8 @@ export default {
         attackdamage: 53.872,
         attackdamageperlevel: 2.9,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2
-      }
+        attackspeedperlevel: 2,
+      },
     },
     TahmKench: {
       version: "6.24.1",
@@ -5366,8 +5263,7 @@ export default {
       key: "223",
       name: "Tahm Kench",
       title: "the River King",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/TahmKench.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/TahmKench.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_0.jpg",
       blurb:
@@ -5376,7 +5272,7 @@ export default {
         attack: 3,
         defense: 9,
         magic: 6,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "TahmKench.png",
@@ -5385,7 +5281,7 @@ export default {
         x: 0,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Support", "Tank"],
       partype: "MP",
@@ -5409,8 +5305,8 @@ export default {
         attackdamage: 56,
         attackdamageperlevel: 3.2,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.5
-      }
+        attackspeedperlevel: 2.5,
+      },
     },
     Taliyah: {
       version: "6.24.1",
@@ -5418,8 +5314,7 @@ export default {
       key: "163",
       name: "Taliyah",
       title: "the Stoneweaver",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Taliyah.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Taliyah.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_0.jpg",
       blurb:
@@ -5428,7 +5323,7 @@ export default {
         attack: 1,
         defense: 7,
         magic: 8,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Taliyah.png",
@@ -5437,7 +5332,7 @@ export default {
         x: 48,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Support"],
       partype: "MP",
@@ -5461,8 +5356,8 @@ export default {
         attackdamage: 56,
         attackdamageperlevel: 3.3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1.36
-      }
+        attackspeedperlevel: 1.36,
+      },
     },
     Talon: {
       version: "6.24.1",
@@ -5470,8 +5365,7 @@ export default {
       key: "91",
       name: "Talon",
       title: "the Blade's Shadow",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Talon.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Talon.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_0.jpg",
       blurb:
@@ -5480,7 +5374,7 @@ export default {
         attack: 9,
         defense: 3,
         magic: 1,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Talon.png",
@@ -5489,7 +5383,7 @@ export default {
         x: 96,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Assassin", "Fighter"],
       partype: "MP",
@@ -5513,8 +5407,8 @@ export default {
         attackdamage: 60,
         attackdamageperlevel: 3.1,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.9
-      }
+        attackspeedperlevel: 2.9,
+      },
     },
     Taric: {
       version: "6.24.1",
@@ -5522,8 +5416,7 @@ export default {
       key: "44",
       name: "Taric",
       title: "the Shield of Valoran",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Taric.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Taric.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_0.jpg",
       blurb:
@@ -5532,7 +5425,7 @@ export default {
         attack: 4,
         defense: 8,
         magic: 5,
-        difficulty: 3
+        difficulty: 3,
       },
       image: {
         full: "Taric.png",
@@ -5541,7 +5434,7 @@ export default {
         x: 144,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Support", "Fighter"],
       partype: "MP",
@@ -5565,8 +5458,8 @@ export default {
         attackdamage: 55,
         attackdamageperlevel: 3.5,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2
-      }
+        attackspeedperlevel: 2,
+      },
     },
     Teemo: {
       version: "6.24.1",
@@ -5574,8 +5467,7 @@ export default {
       key: "17",
       name: "Teemo",
       title: "the Swift Scout",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Teemo.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Teemo.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg",
       blurb:
@@ -5584,7 +5476,7 @@ export default {
         attack: 5,
         defense: 3,
         magic: 7,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Teemo.png",
@@ -5593,7 +5485,7 @@ export default {
         x: 192,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman", "Assassin"],
       partype: "MP",
@@ -5617,8 +5509,8 @@ export default {
         attackdamage: 49.54,
         attackdamageperlevel: 3,
         attackspeedoffset: -0.0947,
-        attackspeedperlevel: 3.38
-      }
+        attackspeedperlevel: 3.38,
+      },
     },
     Thresh: {
       version: "6.24.1",
@@ -5626,8 +5518,7 @@ export default {
       key: "412",
       name: "Thresh",
       title: "the Chain Warden",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Thresh.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Thresh.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg",
       blurb:
@@ -5636,7 +5527,7 @@ export default {
         attack: 5,
         defense: 6,
         magic: 6,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Thresh.png",
@@ -5645,7 +5536,7 @@ export default {
         x: 240,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Support", "Fighter"],
       partype: "MP",
@@ -5669,8 +5560,8 @@ export default {
         attackdamage: 47.696,
         attackdamageperlevel: 2.2,
         attackspeedoffset: 0,
-        attackspeedperlevel: 3.5
-      }
+        attackspeedperlevel: 3.5,
+      },
     },
     Tristana: {
       version: "6.24.1",
@@ -5678,8 +5569,7 @@ export default {
       key: "18",
       name: "Tristana",
       title: "the Yordle Gunner",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Tristana.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Tristana.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_0.jpg",
       blurb:
@@ -5688,7 +5578,7 @@ export default {
         attack: 9,
         defense: 3,
         magic: 5,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Tristana.png",
@@ -5697,7 +5587,7 @@ export default {
         x: 288,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman", "Assassin"],
       partype: "MP",
@@ -5721,8 +5611,8 @@ export default {
         attackdamage: 56.96,
         attackdamageperlevel: 2.41,
         attackspeedoffset: -0.04734,
-        attackspeedperlevel: 1.5
-      }
+        attackspeedperlevel: 1.5,
+      },
     },
     Trundle: {
       version: "6.24.1",
@@ -5730,8 +5620,7 @@ export default {
       key: "48",
       name: "Trundle",
       title: "the Troll King",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Trundle.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Trundle.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_0.jpg",
       blurb:
@@ -5740,7 +5629,7 @@ export default {
         attack: 7,
         defense: 6,
         magic: 2,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Trundle.png",
@@ -5749,7 +5638,7 @@ export default {
         x: 336,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "MP",
@@ -5773,8 +5662,8 @@ export default {
         attackdamage: 60.04,
         attackdamageperlevel: 3,
         attackspeedoffset: -0.0672,
-        attackspeedperlevel: 2.9
-      }
+        attackspeedperlevel: 2.9,
+      },
     },
     Tryndamere: {
       version: "6.24.1",
@@ -5782,8 +5671,7 @@ export default {
       key: "23",
       name: "Tryndamere",
       title: "the Barbarian King",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Tryndamere.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Tryndamere.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_0.jpg",
       blurb:
@@ -5792,7 +5680,7 @@ export default {
         attack: 10,
         defense: 5,
         magic: 2,
-        difficulty: 5
+        difficulty: 5,
       },
       image: {
         full: "Tryndamere.png",
@@ -5801,7 +5689,7 @@ export default {
         x: 384,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Assassin"],
       partype: "Battlefury",
@@ -5825,8 +5713,8 @@ export default {
         attackdamage: 61.376,
         attackdamageperlevel: 3.2,
         attackspeedoffset: -0.0672,
-        attackspeedperlevel: 2.9
-      }
+        attackspeedperlevel: 2.9,
+      },
     },
     TwistedFate: {
       version: "6.24.1",
@@ -5834,17 +5722,16 @@ export default {
       key: "4",
       name: "Twisted Fate",
       title: "the Card Master",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Maokai.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Maokai.png",
       splash:
-        "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_0.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_0.jpg",
       blurb:
         "Twisted Fate is an infamous card sharp and swindler who has gambled and charmed his way across much of the known world, earning the enmity and admiration of the rich and foolish alike. He rarely takes things seriously, greeting each day with a mocking ...",
       info: {
         attack: 6,
         defense: 2,
         magic: 6,
-        difficulty: 9
+        difficulty: 9,
       },
       image: {
         full: "TwistedFate.png",
@@ -5853,7 +5740,7 @@ export default {
         x: 432,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage"],
       partype: "MP",
@@ -5877,8 +5764,8 @@ export default {
         attackdamage: 49.954,
         attackdamageperlevel: 3.3,
         attackspeedoffset: -0.04,
-        attackspeedperlevel: 3.22
-      }
+        attackspeedperlevel: 3.22,
+      },
     },
     Twitch: {
       version: "6.24.1",
@@ -5886,8 +5773,7 @@ export default {
       key: "29",
       name: "Twitch",
       title: "the Plague Rat",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Twitch.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Twitch.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_0.jpg",
       blurb:
@@ -5896,7 +5782,7 @@ export default {
         attack: 9,
         defense: 2,
         magic: 3,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Twitch.png",
@@ -5905,7 +5791,7 @@ export default {
         x: 0,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman", "Assassin"],
       partype: "MP",
@@ -5929,8 +5815,8 @@ export default {
         attackdamage: 55.46,
         attackdamageperlevel: 2.41,
         attackspeedoffset: -0.08,
-        attackspeedperlevel: 3.38
-      }
+        attackspeedperlevel: 3.38,
+      },
     },
     Udyr: {
       version: "6.24.1",
@@ -5938,8 +5824,7 @@ export default {
       key: "77",
       name: "Udyr",
       title: "the Spirit Walker",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Udyr.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Udyr.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_0.jpg",
       blurb:
@@ -5948,7 +5833,7 @@ export default {
         attack: 8,
         defense: 7,
         magic: 4,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Udyr.png",
@@ -5957,7 +5842,7 @@ export default {
         x: 48,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "MP",
@@ -5981,8 +5866,8 @@ export default {
         attackdamage: 58.286,
         attackdamageperlevel: 3.2,
         attackspeedoffset: -0.05,
-        attackspeedperlevel: 2.67
-      }
+        attackspeedperlevel: 2.67,
+      },
     },
     Urgot: {
       version: "6.24.1",
@@ -5990,8 +5875,7 @@ export default {
       key: "6",
       name: "Urgot",
       title: "the Headsman's Pride",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Urgot.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Urgot.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_0.jpg",
       blurb:
@@ -6000,7 +5884,7 @@ export default {
         attack: 8,
         defense: 5,
         magic: 3,
-        difficulty: 8
+        difficulty: 8,
       },
       image: {
         full: "Urgot.png",
@@ -6009,7 +5893,7 @@ export default {
         x: 96,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman", "Fighter"],
       partype: "MP",
@@ -6033,8 +5917,8 @@ export default {
         attackdamage: 54.05,
         attackdamageperlevel: 3.6,
         attackspeedoffset: -0.03,
-        attackspeedperlevel: 2.9
-      }
+        attackspeedperlevel: 2.9,
+      },
     },
     Varus: {
       version: "6.24.1",
@@ -6042,8 +5926,7 @@ export default {
       key: "110",
       name: "Varus",
       title: "the Arrow of Retribution",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Varus.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Varus.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg",
       blurb:
@@ -6052,7 +5935,7 @@ export default {
         attack: 7,
         defense: 3,
         magic: 4,
-        difficulty: 2
+        difficulty: 2,
       },
       image: {
         full: "Varus.png",
@@ -6061,7 +5944,7 @@ export default {
         x: 144,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman", "Mage"],
       partype: "MP",
@@ -6085,8 +5968,8 @@ export default {
         attackdamage: 54.66,
         attackdamageperlevel: 2.41,
         attackspeedoffset: -0.05,
-        attackspeedperlevel: 3
-      }
+        attackspeedperlevel: 3,
+      },
     },
     Vayne: {
       version: "6.24.1",
@@ -6094,8 +5977,7 @@ export default {
       key: "67",
       name: "Vayne",
       title: "the Night Hunter",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Vayne.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Vayne.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_0.jpg",
       blurb:
@@ -6104,7 +5986,7 @@ export default {
         attack: 10,
         defense: 1,
         magic: 1,
-        difficulty: 8
+        difficulty: 8,
       },
       image: {
         full: "Vayne.png",
@@ -6113,7 +5995,7 @@ export default {
         x: 192,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Marksman", "Assassin"],
       partype: "MP",
@@ -6137,8 +6019,8 @@ export default {
         attackdamage: 55.88,
         attackdamageperlevel: 1.66,
         attackspeedoffset: -0.05,
-        attackspeedperlevel: 4
-      }
+        attackspeedperlevel: 4,
+      },
     },
     Veigar: {
       version: "6.24.1",
@@ -6146,8 +6028,7 @@ export default {
       key: "45",
       name: "Veigar",
       title: "the Tiny Master of Evil",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Veigar.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Veigar.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_0.jpg",
       blurb:
@@ -6156,7 +6037,7 @@ export default {
         attack: 2,
         defense: 2,
         magic: 10,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Veigar.png",
@@ -6165,7 +6046,7 @@ export default {
         x: 240,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage"],
       partype: "MP",
@@ -6189,8 +6070,8 @@ export default {
         attackdamage: 50.71,
         attackdamageperlevel: 2.625,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.24
-      }
+        attackspeedperlevel: 2.24,
+      },
     },
     Velkoz: {
       version: "6.24.1",
@@ -6198,8 +6079,7 @@ export default {
       key: "161",
       name: "Vel'Koz",
       title: "the Eye of the Void",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Velkoz.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Velkoz.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_0.jpg",
       blurb:
@@ -6208,7 +6088,7 @@ export default {
         attack: 2,
         defense: 2,
         magic: 10,
-        difficulty: 8
+        difficulty: 8,
       },
       image: {
         full: "Velkoz.png",
@@ -6217,7 +6097,7 @@ export default {
         x: 288,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage"],
       partype: "MP",
@@ -6241,8 +6121,8 @@ export default {
         attackdamage: 54.9379,
         attackdamageperlevel: 3.14159,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1.36
-      }
+        attackspeedperlevel: 1.36,
+      },
     },
     Vi: {
       version: "6.24.1",
@@ -6259,7 +6139,7 @@ export default {
         attack: 8,
         defense: 5,
         magic: 3,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Vi.png",
@@ -6268,7 +6148,7 @@ export default {
         x: 336,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Assassin"],
       partype: "MP",
@@ -6292,8 +6172,8 @@ export default {
         attackdamage: 55.88,
         attackdamageperlevel: 3.5,
         attackspeedoffset: -0.03,
-        attackspeedperlevel: 2.5
-      }
+        attackspeedperlevel: 2.5,
+      },
     },
     Viktor: {
       version: "6.24.1",
@@ -6301,8 +6181,7 @@ export default {
       key: "112",
       name: "Viktor",
       title: "the Machine Herald",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Viktor.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Viktor.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_0.jpg",
       blurb:
@@ -6311,7 +6190,7 @@ export default {
         attack: 2,
         defense: 4,
         magic: 10,
-        difficulty: 9
+        difficulty: 9,
       },
       image: {
         full: "Viktor.png",
@@ -6320,7 +6199,7 @@ export default {
         x: 384,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage"],
       partype: "MP",
@@ -6344,8 +6223,8 @@ export default {
         attackdamage: 52.04,
         attackdamageperlevel: 3,
         attackspeedoffset: -0.05,
-        attackspeedperlevel: 2.11
-      }
+        attackspeedperlevel: 2.11,
+      },
     },
     Vladimir: {
       version: "6.24.1",
@@ -6353,8 +6232,7 @@ export default {
       key: "8",
       name: "Vladimir",
       title: "the Crimson Reaper",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Vladimir.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Vladimir.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_0.jpg",
       blurb:
@@ -6363,7 +6241,7 @@ export default {
         attack: 2,
         defense: 6,
         magic: 8,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Vladimir.png",
@@ -6372,7 +6250,7 @@ export default {
         x: 432,
         y: 96,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Tank"],
       partype: "Gnarfury",
@@ -6396,8 +6274,8 @@ export default {
         attackdamage: 52,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2
-      }
+        attackspeedperlevel: 2,
+      },
     },
     Volibear: {
       version: "6.24.1",
@@ -6405,8 +6283,7 @@ export default {
       key: "106",
       name: "Volibear",
       title: "the Thunder's Roar",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Volibear.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Volibear.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_0.jpg",
       blurb:
@@ -6415,7 +6292,7 @@ export default {
         attack: 7,
         defense: 7,
         magic: 4,
-        difficulty: 3
+        difficulty: 3,
       },
       image: {
         full: "Volibear.png",
@@ -6424,7 +6301,7 @@ export default {
         x: 0,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "MP",
@@ -6448,8 +6325,8 @@ export default {
         attackdamage: 59.544,
         attackdamageperlevel: 3.3,
         attackspeedoffset: -0.05,
-        attackspeedperlevel: 2.67
-      }
+        attackspeedperlevel: 2.67,
+      },
     },
     Warwick: {
       version: "6.24.1",
@@ -6457,8 +6334,7 @@ export default {
       key: "19",
       name: "Warwick",
       title: "the Blood Hunter",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Warwick.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Warwick.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_0.jpg",
       blurb:
@@ -6467,7 +6343,7 @@ export default {
         attack: 7,
         defense: 4,
         magic: 4,
-        difficulty: 3
+        difficulty: 3,
       },
       image: {
         full: "Warwick.png",
@@ -6476,7 +6352,7 @@ export default {
         x: 48,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "MP",
@@ -6500,8 +6376,8 @@ export default {
         attackdamage: 62.43,
         attackdamageperlevel: 3.375,
         attackspeedoffset: -0.08,
-        attackspeedperlevel: 2.88
-      }
+        attackspeedperlevel: 2.88,
+      },
     },
     Xerath: {
       version: "6.24.1",
@@ -6509,8 +6385,7 @@ export default {
       key: "101",
       name: "Xerath",
       title: "the Magus Ascendant",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Xerath.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Xerath.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_0.jpg",
       blurb:
@@ -6519,7 +6394,7 @@ export default {
         attack: 1,
         defense: 3,
         magic: 10,
-        difficulty: 8
+        difficulty: 8,
       },
       image: {
         full: "Xerath.png",
@@ -6528,7 +6403,7 @@ export default {
         x: 96,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Assassin"],
       partype: "MP",
@@ -6552,8 +6427,8 @@ export default {
         attackdamage: 54.7,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 1.36
-      }
+        attackspeedperlevel: 1.36,
+      },
     },
     XinZhao: {
       version: "6.24.1",
@@ -6561,8 +6436,7 @@ export default {
       key: "5",
       name: "Xin Zhao",
       title: "the Seneschal of Demacia",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/XinZhao.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/XinZhao.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_0.jpg",
       blurb:
@@ -6571,7 +6445,7 @@ export default {
         attack: 8,
         defense: 6,
         magic: 3,
-        difficulty: 2
+        difficulty: 2,
       },
       image: {
         full: "XinZhao.png",
@@ -6580,7 +6454,7 @@ export default {
         x: 144,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Assassin"],
       partype: "MP",
@@ -6604,8 +6478,8 @@ export default {
         attackdamage: 57.544,
         attackdamageperlevel: 3.3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.6
-      }
+        attackspeedperlevel: 2.6,
+      },
     },
     Yasuo: {
       version: "6.24.1",
@@ -6613,8 +6487,7 @@ export default {
       key: "157",
       name: "Yasuo",
       title: "the Unforgiven",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Yasuo.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Yasuo.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg",
       blurb:
@@ -6623,7 +6496,7 @@ export default {
         attack: 8,
         defense: 4,
         magic: 4,
-        difficulty: 10
+        difficulty: 10,
       },
       image: {
         full: "Yasuo.png",
@@ -6632,7 +6505,7 @@ export default {
         x: 192,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Assassin"],
       partype: "Wind",
@@ -6656,8 +6529,8 @@ export default {
         attackdamage: 55.376,
         attackdamageperlevel: 3.2,
         attackspeedoffset: -0.067,
-        attackspeedperlevel: 2.5
-      }
+        attackspeedperlevel: 2.5,
+      },
     },
     Yorick: {
       version: "6.24.1",
@@ -6665,8 +6538,7 @@ export default {
       key: "83",
       name: "Yorick",
       title: "Shepherd of Souls",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Yorick.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Yorick.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_0.jpg",
       blurb:
@@ -6675,7 +6547,7 @@ export default {
         attack: 6,
         defense: 6,
         magic: 4,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Yorick.png",
@@ -6684,7 +6556,7 @@ export default {
         x: 240,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Fighter", "Tank"],
       partype: "MP",
@@ -6708,8 +6580,8 @@ export default {
         attackdamage: 57,
         attackdamageperlevel: 5,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2
-      }
+        attackspeedperlevel: 2,
+      },
     },
     Zac: {
       version: "6.24.1",
@@ -6717,8 +6589,7 @@ export default {
       key: "154",
       name: "Zac",
       title: "the Secret Weapon",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Zac.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Zac.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_0.jpg",
       blurb:
@@ -6727,7 +6598,7 @@ export default {
         attack: 3,
         defense: 7,
         magic: 7,
-        difficulty: 8
+        difficulty: 8,
       },
       image: {
         full: "Zac.png",
@@ -6736,7 +6607,7 @@ export default {
         x: 288,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Tank", "Fighter"],
       partype: "None",
@@ -6760,8 +6631,8 @@ export default {
         attackdamage: 59.67,
         attackdamageperlevel: 3.375,
         attackspeedoffset: -0.02,
-        attackspeedperlevel: 1.6
-      }
+        attackspeedperlevel: 1.6,
+      },
     },
     Zed: {
       version: "6.24.1",
@@ -6769,8 +6640,7 @@ export default {
       key: "238",
       name: "Zed",
       title: "the Master of Shadows",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Zed.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Zed.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg",
       blurb:
@@ -6779,7 +6649,7 @@ export default {
         attack: 9,
         defense: 2,
         magic: 1,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Zed.png",
@@ -6788,7 +6658,7 @@ export default {
         x: 336,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Assassin", "Fighter"],
       partype: "Energy",
@@ -6812,8 +6682,8 @@ export default {
         attackdamage: 54.712,
         attackdamageperlevel: 3.4,
         attackspeedoffset: -0.03,
-        attackspeedperlevel: 2.1
-      }
+        attackspeedperlevel: 2.1,
+      },
     },
     Ziggs: {
       version: "6.24.1",
@@ -6821,8 +6691,7 @@ export default {
       key: "115",
       name: "Ziggs",
       title: "the Hexplosives Expert",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Ziggs.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Ziggs.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_0.jpg",
       blurb:
@@ -6831,7 +6700,7 @@ export default {
         attack: 2,
         defense: 4,
         magic: 9,
-        difficulty: 4
+        difficulty: 4,
       },
       image: {
         full: "Ziggs.png",
@@ -6840,7 +6709,7 @@ export default {
         x: 384,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage"],
       partype: "MP",
@@ -6864,8 +6733,8 @@ export default {
         attackdamage: 54.208,
         attackdamageperlevel: 3.1,
         attackspeedoffset: -0.04734,
-        attackspeedperlevel: 2
-      }
+        attackspeedperlevel: 2,
+      },
     },
     Zilean: {
       version: "6.24.1",
@@ -6873,8 +6742,7 @@ export default {
       key: "26",
       name: "Zilean",
       title: "the Chronokeeper",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Zilean.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Zilean.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_0.jpg",
       blurb:
@@ -6883,7 +6751,7 @@ export default {
         attack: 2,
         defense: 5,
         magic: 8,
-        difficulty: 6
+        difficulty: 6,
       },
       image: {
         full: "Zilean.png",
@@ -6892,7 +6760,7 @@ export default {
         x: 432,
         y: 0,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Support", "Mage"],
       partype: "MP",
@@ -6916,8 +6784,8 @@ export default {
         attackdamage: 51.64,
         attackdamageperlevel: 3,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.13
-      }
+        attackspeedperlevel: 2.13,
+      },
     },
     Zyra: {
       version: "6.24.1",
@@ -6925,8 +6793,7 @@ export default {
       key: "143",
       name: "Zyra",
       title: "Rise of the Thorns",
-      img:
-        "https://www.masterypoints.com/assets/img/lol/champion_icons/Zyra.png",
+      img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Zyra.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_0.jpg",
       blurb:
@@ -6935,7 +6802,7 @@ export default {
         attack: 4,
         defense: 3,
         magic: 8,
-        difficulty: 7
+        difficulty: 7,
       },
       image: {
         full: "Zyra.png",
@@ -6944,7 +6811,7 @@ export default {
         x: 0,
         y: 48,
         w: 48,
-        h: 48
+        h: 48,
       },
       tags: ["Mage", "Support"],
       partype: "MP",
@@ -6968,8 +6835,8 @@ export default {
         attackdamage: 53.376,
         attackdamageperlevel: 3.2,
         attackspeedoffset: 0,
-        attackspeedperlevel: 2.11
-      }
-    }
-  }
+        attackspeedperlevel: 2.11,
+      },
+    },
+  },
 };
