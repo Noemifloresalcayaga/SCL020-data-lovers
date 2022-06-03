@@ -1,0 +1,426 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    cursor: url('./fotos/lolcursor.cur'), auto;
+  }
+
+  header{
+    display: flex;
+    width: auto;
+    height: 60px;
+    background: #772C43;
+    align-items: center;
+    justify-content: left;
+    align-content: center;
+    /*outline: 2px solid red; identifica los div*/
+  }
+  
+  .logoSearch1{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    width: auto;
+    height: 35px;
+    margin: 5px;
+    /*outline: 2px solid red; identifica los div*/
+  }
+  
+  .logoSearch2{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    width: auto;
+    height: 35px;
+    margin: 5px;
+    /*outline: 2px solid red; identifica los div*/
+  }
+  
+  .pag1{
+    background-image: url(fotos/darius.gif);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    min-height: 100vh;
+  }
+  
+  .inicio{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  #logo{
+    width: 40%;
+    height: 40%;
+    margin-top: 10%;
+   /*outline: 2px solid red; identifica los div*/
+  }
+  
+  .foundChampText{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 3vh;
+  }
+  
+  .botones{
+    background-color: #772C43;
+    font-family: "Georgia";
+    color: white;
+    font-size: large;
+    padding: 5px 10px;
+    border-radius: 30px;
+    text-shadow: 1px 1px 10px rgb(2 2 2);
+    border-color: #C89B3C;
+  }
+  
+  #boton1{
+    padding: 10px 10px;
+    width: 35vh;
+    left: 45%;
+    margin-top: 30px;
+    text-align: center;
+    }
+  
+  
+  /*CARACTERISTICAS DE LA SEGUNDA SECCION*/
+  
+  .secondPage{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    /*outline: 2px solid red; /*identifica los div*/
+  }
+  
+  .texto{
+  position: relative;
+  top: 120px;
+  min-height: 6vh;
+  max-width: 50%;
+  font-family: italic;
+  font-size:4vh;
+  /*outline: 2px solid red;/*identifica los div*/
+    
+  }
+
+  .find{
+  position: relative;
+  margin-top: 10%;
+  max-width: 50vw;
+  min-height: 30px;
+  font-style: italic;
+  font-size: 45px;
+  /*outline: 2px solid red;/*identifica los div*/
+ }
+
+ .CAMPEONTEXT{
+   height: 15vh;
+   font-style: italic;
+   font-size: 90px;
+   font-weight: bold;
+   /*outline: 2px solid red;/*identifica los div*/
+  }
+ 
+  #parrafo2{
+    height: 10vh;
+    width: 60%;
+    max-width: 350px;
+    font-size: 20px;
+    color:#772C43;
+    /*outline: 2px solid red;/*identifica los div*/
+  }
+  
+  #filterButtons ul li {
+     background-color:#C89B3C
+  }
+  
+  #filterButtons ul {
+    list-style: none;
+    margin: 0;
+    height: 15vh;
+  }
+  
+  #filterButtons ul a {
+    display: block;
+    color:#fff;
+    text-decoration: none;
+    font-size:15px;
+    padding: 20px 90px;
+    float: none;
+    width: 210px;
+    font-family: 'italic';
+    text-transform: uppercase;
+    
+  }
+  
+  #filterButtons ul li {
+    position:relative;
+    float: left;
+   /* outline: 2px solid red; /*identifica los div*/
+  }
+  
+  #filterButtons ul li:hover {
+    background:#C8AA6E;
+  }
+  
+  #filterButtons ul ul {
+    display: none;
+    position: absolute;
+    top:100%;
+  }
+  
+  #filterButtons ul ul a {
+    padding: 10px;
+    
+  }
+  
+  #filterButtons ul li:hover > ul {
+    display:block;
+    
+  }
+
+ /*ORDEN DE LAS CARTAS*/
+
+  .container-champions{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+ }
+ 
+  .card { 
+    padding: 1rem;
+    border-radius: 45px; 
+    font-weight: bold; 
+    box-shadow : 0px 8px 15px rgba ( 0 , 0 , 0 , 0.1 ) ;
+    transition : all 0.3s ease ;
+   /*outline: 2px solid red; /*identifica los div*/
+  }
+
+  /*DECORACION DE LAS CARTAS*/
+  .card:hover{
+    background: #c89e3cac;
+    border-radius: 15px;
+    transform: translateY(-8px); 
+    box-shadow: 0px 10px 25px 
+    rgba (46, 223, 229, 0.445);
+  }
+
+  .card img {
+    width: 22vw;
+    margin: auto;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+  }
+
+  .card .name {
+    padding: 0.5rem;
+    text-transform: uppercase;
+    font-style: italic;
+    font-size:6vh;
+    background:  rgb(6, 28, 37);
+    font-weight: bolder;
+    color: #fff;
+    text-align: left;
+  }
+
+  .card .title {
+    padding: 0.5rem;
+    text-transform: uppercase;
+    text-align: left;
+    font-size: medium;
+    background:  rgb(4, 21, 27);
+    font-weight: 400;
+    color: #fff;
+  }
+
+  .card .tags {
+    padding: 0.5rem;
+    text-align: left;
+    font-size: medium;
+    background: rgb(4, 19, 24);
+    font-weight: 400;
+    color: #fff;
+  }
+
+  .card .info {
+    padding: 0.5rem;
+    text-align: left;
+    font-size: medium;
+    background:rgb(3, 15, 18);
+    font-weight: 400;
+    color: #fff;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+  }
+
+   footer{
+    display: flex;
+    margin-top: 5% ;
+    width: auto;
+    background: #772C43;
+    align-items: center;
+    align-content: center;
+   }
+
+  .logoPoro{
+    display: flex;
+    width: auto;
+    height: 12vh;
+    justify-content: left;
+    margin: 5px;
+    /*outline: 2px solid red; identifica los div*/
+  }
+
+  .logoREDES{
+    display: flex;
+    width: auto;
+    height: 45px;
+    margin: 5px;
+    /*outline: 2px solid red;*/
+  }
+
+  .finalText{
+    height: 3vh;
+    width: 100%;
+    font-family: italic;
+    font-size: 2vh;
+    text-align: center;
+    justify-content: center;
+    color: #fff;
+  }
+
+  /*RESPONSIVE*/
+
+  @media (max-width: 1000px){
+    .pag1{
+      background-image: url(fotos/lolresponsive.jpg);
+      background-size: cover;
+      background-repeat: no-repeat; 
+      min-height: 100vh;
+    }
+
+    #boton1 {
+      padding: 13px 2px;
+      width: 25vh;
+      margin-top: 80%;
+      text-align: center;
+  }
+
+  .botones {
+    background-color: #1b283a;
+    font-style: italic;
+    color: white;
+    font-size: 3vh;
+    padding: 5px 10px;
+    border-radius: 30px;
+  }
+
+  .foundChampText{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    color: #1b283a;
+    font-size: 2vh;
+  }
+
+  #logo {
+    width: 23vh;
+    margin-top: 6%;
+  }
+
+  .texto {
+    min-height: 15vh;
+    max-width: 90%;
+    font-size: 2vh;
+  }
+
+  .find {
+    margin-top: 33%;
+    font-size: 2vh;
+  }
+
+  .CAMPEONTEXT {
+    font-size: 5vh;
+  }
+
+  #parrafo2 {
+    height: 15vh;
+    font-size: 2vh;
+  }
+
+  #filterButtons ul {
+    display: flex;
+    height: 10vh;
+  }
+  
+  #filterButtons ul li {
+    width: 30vw;
+    height: 7vh;
+    /*outline: 2px solid red; /*identifica los div*/
+  }
+  
+  #filterButtons ul a {
+    font-size: 12px;
+    padding: 20px 50px;
+    width: 30px;
+    text-align: center;
+  }
+  
+  .card{
+  padding: 2rem;
+  }
+
+  .card .name {
+    font-size: 2vh;
+  }
+
+  .card img {
+    width: 65vw;
+  }
+
+  .card .title{
+  font-size: 1vh;
+  }
+
+.container-champions{
+  display: flex;
+  background-color: rgb(11, 69, 88);
+  width: 90vw;
+  height: 50vh;
+  overflow: auto;
+}
+
+.centerChamp{
+  display: flex;
+  justify-content: center;
+}
+
+
+
+.finalText{
+  display: flex;
+  flex-direction: column;
+  font-size: 50%;
+}
+
+.logoPoro{
+  display: flex;
+  width: auto;
+  height: 45px;
+  justify-content: left;
+  margin: 5px;
+  /*outline: 2px solid red; identifica los div*/
+}
+
+.logoREDES{
+  height: 30px;
+  margin: 5px;
+  /*outline: 2px solid red;*/
+}
+
+}
